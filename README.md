@@ -2,9 +2,9 @@
 
 This repository contains files necessary to reproduce the GO-term enrichment analysis published by [Yan et al. 2022](https://doi.org/10.1101/2022.06.25.497611).
 
-Conda environment is specified in `conda.yaml`.
+`conda.yaml` contains the conda environment used.
 
-`all_code.ipynb` is a jupyter notebook that contains all the R code used for the analysis. It is built upon an R script generously provided by [Karl Glastad](https://orcid.org/0000-0002-8142-1821).
+`all_code.ipynb` is a jupyter notebook that contains all the R code used for the analyses. It is built upon an R script generously provided by [Karl Glastad](https://orcid.org/0000-0002-8142-1821).
 
 The `GO_annotations` folder contains two different versions of GO-term annotations of the *Harpegnathos saltator* genes:
 1. `hsal_NCBI_2018annot.b2g_annotations.for_topGO.v2.txt` were generated using [Blast2GO](https://doi.org/10.1093/bioinformatics/bti610) by Karl Glastad for [Gospocic et al. 2021](https://doi.org/10.1016/j.cell.2021.10.006).
@@ -12,4 +12,4 @@ The `GO_annotations` folder contains two different versions of GO-term annotatio
 
 We ran the analysis using both versions, but only included the results for the second one in the paper.
 
-The `data` folder contains all the inputs and outputs. The input is the results of differential expression analysis for each contrast (e.g. ovary in workers vs gamergates). All the results are in `Table_S1_DE_genes.xlsx`. Each tab of this file was saved as a separate `.csv` file with the prefix `Table_S1_DE_genes_`.
+The `data` folder contains all the inputs and outputs. The input is the results of differential expression analysis for each contrast (e.g. ovary in workers vs gamergates). All the input data are in `Table_S1_DE_genes.xlsx`. Each tab of this file was saved as a separate `.csv` file with the prefix `Table_S1_DE_genes_`. The `topGO_output` folder contains all the outputs, see the jupyter notebook for details.
