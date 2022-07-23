@@ -1,0 +1,50 @@
+GO.ID	Term	Annotated	Significant	Expected	elimFisher
+GO:0031145	anaphase-promoting complex-dependent catabolic process	25	11	2.7	2.4e-05
+GO:0006508	proteolysis	904	143	97.74	0.00022
+GO:0007100	mitotic centrosome separation	14	7	1.51	0.00029
+GO:0000398	mRNA splicing, via spliceosome	266	47	28.76	0.00043
+GO:0070126	mitochondrial translational termination	38	12	4.11	0.00045
+GO:0022618	ribonucleoprotein complex assembly	182	35	19.68	0.00047
+GO:0070125	mitochondrial translational elongation	40	12	4.32	0.00075
+GO:0000447	endonucleolytic cleavage in ITS1 to separate SSU-rRNA from 5.8S rRNA and LSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	16	7	1.73	8e-04
+GO:0006637	acyl-CoA metabolic process	142	28	15.35	0.00113
+GO:0006338	chromatin remodeling	136	27	14.7	0.00123
+GO:0042178	xenobiotic catabolic process	17	7	1.84	0.00124
+GO:0006547	histidine metabolic process	13	6	1.41	0.00138
+GO:0007057	spindle assembly involved in female meiosis I	6	4	0.65	0.0017
+GO:0001694	histamine biosynthetic process	6	4	0.65	0.0017
+GO:0019852	L-ascorbic acid metabolic process	18	7	1.95	0.00184
+GO:0022613	ribonucleoprotein complex biogenesis	477	93	51.57	0.00222
+GO:0007094	mitotic spindle assembly checkpoint signaling	29	9	3.14	0.00263
+GO:0019083	viral transcription	19	7	2.05	0.00264
+GO:0031167	rRNA methylation	24	8	2.59	0.00274
+GO:0090307	mitotic spindle assembly	47	12	5.08	0.00345
+GO:0065004	protein-DNA complex assembly	113	25	12.22	0.00361
+GO:0070682	proteasome regulatory particle assembly	7	4	0.76	0.00363
+GO:0042427	serotonin biosynthetic process	7	4	0.76	0.00363
+GO:2000232	regulation of rRNA processing	7	4	0.76	0.00363
+GO:0048821	erythrocyte development	12	5	1.3	0.00604
+GO:0042311	vasodilation	12	5	1.3	0.00604
+GO:0000466	maturation of 5.8S rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	33	13	3.57	0.00663
+GO:0000480	endonucleolytic cleavage in 5'-ETS of tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	8	4	0.86	0.00665
+GO:0000472	endonucleolytic cleavage to generate mature 5'-end of SSU-rRNA from (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	8	4	0.86	0.00665
+GO:0046689	response to mercury ion	8	4	0.86	0.00665
+GO:0045899	positive regulation of RNA polymerase II transcription preinitiation complex assembly	8	4	0.86	0.00665
+GO:0045842	positive regulation of mitotic metaphase/anaphase transition	8	4	0.86	0.00665
+GO:0000463	maturation of LSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	22	7	2.38	0.00669
+GO:0045540	regulation of cholesterol biosynthetic process	57	13	6.16	0.00673
+GO:0034656	nucleobase-containing small molecule catabolic process	17	6	1.84	0.00681
+GO:0036503	ERAD pathway	70	15	7.57	0.00693
+GO:0071704	organic substance metabolic process	5881	719	635.84	0.00802
+GO:0006586	indolalkylamine metabolic process	52	12	5.62	0.00822
+GO:1901992	positive regulation of mitotic cell cycle phase transition	54	15	5.84	0.00828
+GO:0006631	fatty acid metabolic process	268	42	28.98	0.00832
+GO:0061077	chaperone-mediated protein folding	34	9	3.68	0.0084
+GO:0006000	fructose metabolic process	23	7	2.49	0.00874
+GO:0008300	isoprenoid catabolic process	13	5	1.41	0.00895
+GO:0045737	positive regulation of cyclin-dependent protein serine/threonine kinase activity	13	5	1.41	0.00895
+GO:0010872	regulation of cholesterol esterification	18	6	1.95	0.0093
+GO:0000054	ribosomal subunit export from nucleus	18	6	1.95	0.0093
+GO:0042795	snRNA transcription by RNA polymerase II	53	12	5.73	0.00961
+GO:0009820	alkaloid metabolic process	29	8	3.14	0.0098
+GO:0006323	DNA packaging	114	21	12.33	0.00993

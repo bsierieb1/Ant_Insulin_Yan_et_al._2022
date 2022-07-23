@@ -1,0 +1,665 @@
+GO.ID	Term	Annotated	Significant	Expected	elimFisher
+GO:0030336	negative regulation of cell migration	103	56	24.28	1.2e-11
+GO:0007411	axon guidance	332	158	78.25	4.7e-11
+GO:0000122	negative regulation of transcription by RNA polymerase II	489	175	115.26	2.6e-10
+GO:0045944	positive regulation of transcription by RNA polymerase II	644	214	151.8	4.6e-09
+GO:0008045	motor neuron axon guidance	64	36	15.09	1.7e-08
+GO:0008347	glial cell migration	45	28	10.61	3.4e-08
+GO:0045214	sarcomere organization	56	32	13.2	6.5e-08
+GO:0007605	sensory perception of sound	134	59	31.58	1.2e-07
+GO:0051241	negative regulation of multicellular organismal process	483	191	113.85	1.2e-07
+GO:0007474	imaginal disc-derived wing vein specification	40	25	9.43	1.6e-07
+GO:0060412	ventricular septum morphogenesis	33	22	7.78	1.7e-07
+GO:0048598	embryonic morphogenesis	523	212	123.27	2e-07
+GO:0045475	locomotor rhythm	58	32	13.67	2e-07
+GO:0007200	phospholipase C-activating G protein-coupled receptor signaling pathway	38	24	8.96	2.2e-07
+GO:0007422	peripheral nervous system development	86	42	20.27	2.6e-07
+GO:0007476	imaginal disc-derived wing morphogenesis	260	117	61.28	3e-07
+GO:0007519	skeletal muscle tissue development	113	51	26.63	3.4e-07
+GO:0030514	negative regulation of BMP signaling pathway	30	20	7.07	6.4e-07
+GO:0007498	mesoderm development	147	61	34.65	9.2e-07
+GO:0007156	homophilic cell adhesion via plasma membrane adhesion molecules	38	23	8.96	1.2e-06
+GO:0007268	chemical synaptic transmission	452	193	106.54	1.7e-06
+GO:0048813	dendrite morphogenesis	221	91	52.09	1.9e-06
+GO:0008039	synaptic target recognition	44	25	10.37	2.1e-06
+GO:0007399	nervous system development	1689	622	398.11	4.6e-06
+GO:0022603	regulation of anatomical structure morphogenesis	441	183	103.95	4.6e-06
+GO:0070374	positive regulation of ERK1 and ERK2 cascade	59	30	13.91	4.6e-06
+GO:0051050	positive regulation of transport	431	161	101.59	5.4e-06
+GO:0030335	positive regulation of cell migration	194	84	45.73	6.8e-06
+GO:0001894	tissue homeostasis	132	60	31.11	7e-06
+GO:0002011	morphogenesis of an epithelial sheet	52	27	12.26	8.3e-06
+GO:0000904	cell morphogenesis involved in differentiation	679	293	160.05	9.1e-06
+GO:0046673	negative regulation of compound eye retinal cell programmed cell death	8	8	1.89	9.4e-06
+GO:0006909	phagocytosis	121	50	28.52	1e-05
+GO:0003007	heart morphogenesis	178	81	41.96	1e-05
+GO:0045467	R7 cell development	29	18	6.84	1.1e-05
+GO:0008344	adult locomotory behavior	131	57	30.88	1.2e-05
+GO:0046777	protein autophosphorylation	108	49	25.46	1.2e-05
+GO:0016199	axon midline choice point recognition	37	21	8.72	1.4e-05
+GO:0016203	muscle attachment	45	24	10.61	1.5e-05
+GO:0007419	ventral cord development	40	22	9.43	1.7e-05
+GO:0016079	synaptic vesicle exocytosis	87	41	20.51	1.8e-05
+GO:0050919	negative chemotaxis	25	16	5.89	1.9e-05
+GO:0007494	midgut development	35	20	8.25	2e-05
+GO:0048172	regulation of short-term neuronal synaptic plasticity	16	12	3.77	2e-05
+GO:0008355	olfactory learning	38	21	8.96	2.5e-05
+GO:0003179	heart valve morphogenesis	38	21	8.96	2.5e-05
+GO:0051240	positive regulation of multicellular organismal process	616	217	145.2	2.9e-05
+GO:0030036	actin cytoskeleton organization	399	167	94.05	2.9e-05
+GO:0007613	memory	136	57	32.06	3.6e-05
+GO:0048667	cell morphogenesis involved in neuron differentiation	602	258	141.9	3.7e-05
+GO:0009967	positive regulation of signal transduction	643	240	151.56	3.9e-05
+GO:0007298	border follicle cell migration	104	43	24.51	4e-05
+GO:0007157	heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules	19	13	4.48	4.2e-05
+GO:0051239	regulation of multicellular organismal process	1313	478	309.48	4.7e-05
+GO:0007274	neuromuscular synaptic transmission	83	36	19.56	5e-05
+GO:2000243	positive regulation of reproductive process	74	33	17.44	5.3e-05
+GO:0035001	dorsal trunk growth, open tracheal system	17	12	4.01	5.3e-05
+GO:0009880	embryonic pattern specification	203	84	47.85	6.3e-05
+GO:0035160	maintenance of epithelial integrity, open tracheal system	15	11	3.54	6.4e-05
+GO:0071689	muscle thin filament assembly	9	8	2.12	6.7e-05
+GO:0098609	cell-cell adhesion	265	118	62.46	6.8e-05
+GO:0035176	social behavior	27	16	6.36	7.4e-05
+GO:0032148	activation of protein kinase B activity	11	9	2.59	7.6e-05
+GO:0043087	regulation of GTPase activity	245	94	57.75	7.7e-05
+GO:0040003	chitin-based cuticle development	113	45	26.63	8e-05
+GO:0002052	positive regulation of neuroblast proliferation	35	19	8.25	8.3e-05
+GO:0042060	wound healing	228	90	53.74	8.3e-05
+GO:0043473	pigmentation	196	75	46.2	9.5e-05
+GO:0008585	female gonad development	69	34	16.26	1e-04
+GO:0007179	transforming growth factor beta receptor signaling pathway	102	44	24.04	0.00011
+GO:0007219	Notch signaling pathway	208	82	49.03	0.00012
+GO:0048645	animal organ formation	86	36	20.27	0.00012
+GO:0002762	negative regulation of myeloid leukocyte differentiation	18	12	4.24	0.00012
+GO:0019991	septate junction assembly	47	23	11.08	0.00013
+GO:0007367	segment polarity determination	28	16	6.6	0.00014
+GO:0048596	embryonic camera-type eye morphogenesis	28	16	6.6	0.00014
+GO:0045766	positive regulation of angiogenesis	53	25	12.49	0.00014
+GO:0002053	positive regulation of mesenchymal cell proliferation	23	14	5.42	0.00014
+GO:0016319	mushroom body development	68	30	16.03	0.00014
+GO:0035019	somatic stem cell population maintenance	59	27	13.91	0.00015
+GO:2001257	regulation of cation channel activity	59	27	13.91	0.00015
+GO:0007169	transmembrane receptor protein tyrosine kinase signaling pathway	325	125	76.6	0.00015
+GO:0006936	muscle contraction	139	59	32.76	0.00016
+GO:0003002	regionalization	569	209	134.12	0.00016
+GO:0051897	positive regulation of protein kinase B signaling	31	17	7.31	0.00017
+GO:0030111	regulation of Wnt signaling pathway	182	74	42.9	0.00017
+GO:0007604	phototransduction, UV	6	6	1.41	0.00017
+GO:0007507	heart development	373	155	87.92	0.00017
+GO:0030198	extracellular matrix organization	96	47	22.63	0.00018
+GO:0002064	epithelial cell development	387	144	91.22	0.00019
+GO:0018105	peptidyl-serine phosphorylation	122	51	28.76	2e-04
+GO:0031290	retinal ganglion cell axon guidance	14	10	3.3	2e-04
+GO:0045087	innate immune response	190	71	44.78	2e-04
+GO:0048546	digestive tract morphogenesis	92	40	21.69	0.00022
+GO:0030010	establishment of cell polarity	117	51	27.58	0.00022
+GO:0050909	sensory perception of taste	38	22	8.96	0.00023
+GO:0001745	compound eye morphogenesis	290	126	68.36	0.00023
+GO:0007386	compartment pattern specification	12	9	2.83	0.00024
+GO:0007418	ventral midline development	12	9	2.83	0.00024
+GO:0048790	maintenance of presynaptic active zone structure	8	7	1.89	0.00025
+GO:0014032	neural crest cell development	43	21	10.14	0.00026
+GO:0002684	positive regulation of immune system process	257	93	60.58	0.00026
+GO:0043153	entrainment of circadian clock by photoperiod	19	12	4.48	0.00026
+GO:0045198	establishment of epithelial cell apical/basal polarity	19	12	4.48	0.00026
+GO:0050922	negative regulation of chemotaxis	19	12	4.48	0.00026
+GO:0032870	cellular response to hormone stimulus	289	100	68.12	0.00026
+GO:0021794	thalamus development	10	8	2.36	0.00027
+GO:0045599	negative regulation of fat cell differentiation	24	14	5.66	0.00027
+GO:0007612	learning	115	61	27.11	0.00027
+GO:0042127	regulation of cell population proliferation	755	257	177.96	0.00027
+GO:0045995	regulation of embryonic development	89	40	20.98	0.00027
+GO:0060326	cell chemotaxis	69	33	16.26	0.00027
+GO:0072002	Malpighian tubule development	59	29	13.91	0.00028
+GO:0021987	cerebral cortex development	89	36	20.98	0.00028
+GO:0007517	muscle organ development	278	123	65.53	0.00028
+GO:0035265	organ growth	151	59	35.59	3e-04
+GO:0071396	cellular response to lipid	222	75	52.33	0.00031
+GO:0050804	modulation of chemical synaptic transmission	254	111	59.87	0.00031
+GO:0031018	endocrine pancreas development	45	25	10.61	0.00032
+GO:0001662	behavioral fear response	27	15	6.36	0.00033
+GO:0060441	epithelial tube branching involved in lung morphogenesis	27	15	6.36	0.00033
+GO:0060071	Wnt signaling pathway, planar cell polarity pathway	38	19	8.96	0.00034
+GO:0050795	regulation of behavior	75	36	17.68	0.00035
+GO:0046326	positive regulation of glucose import	17	11	4.01	0.00036
+GO:0048169	regulation of long-term neuronal synaptic plasticity	17	11	4.01	0.00036
+GO:0048103	somatic stem cell division	17	11	4.01	0.00036
+GO:0035277	spiracle morphogenesis, open tracheal system	22	13	5.19	0.00037
+GO:0060291	long-term synaptic potentiation	22	13	5.19	0.00037
+GO:0000165	MAPK cascade	306	115	72.13	0.00037
+GO:0048859	formation of anatomical boundary	53	24	12.49	0.00041
+GO:0007435	salivary gland morphogenesis	104	44	24.51	0.00042
+GO:0009798	axis specification	224	75	52.8	0.00042
+GO:0007044	cell-substrate junction assembly	40	22	9.43	0.00044
+GO:0030216	keratinocyte differentiation	40	22	9.43	0.00044
+GO:0048738	cardiac muscle tissue development	125	51	29.46	0.00046
+GO:0042676	compound eye cone cell fate commitment	15	10	3.54	0.00047
+GO:0007026	negative regulation of microtubule depolymerization	15	10	3.54	0.00047
+GO:0048841	regulation of axon extension involved in axon guidance	15	10	3.54	0.00047
+GO:0019228	neuronal action potential	15	10	3.54	0.00047
+GO:0036120	cellular response to platelet-derived growth factor stimulus	15	10	3.54	0.00047
+GO:0072499	photoreceptor cell axon guidance	25	14	5.89	0.00047
+GO:0008542	visual learning	25	14	5.89	0.00047
+GO:0045433	male courtship behavior, veined wing generated song production	25	14	5.89	0.00047
+GO:0046716	muscle cell cellular homeostasis	36	18	8.49	0.00049
+GO:0046667	compound eye retinal cell programmed cell death	28	20	6.6	5e-04
+GO:0060563	neuroepithelial cell differentiation	27	17	6.36	0.00051
+GO:0048252	lauric acid metabolic process	20	12	4.71	0.00052
+GO:0051963	regulation of synapse assembly	119	47	28.05	0.00053
+GO:0007610	behavior	798	320	188.09	0.00054
+GO:0021510	spinal cord development	68	33	16.03	0.00055
+GO:0002027	regulation of heart rate	42	20	9.9	0.00055
+GO:0048146	positive regulation of fibroblast proliferation	28	15	6.6	0.00056
+GO:0009069	serine family amino acid metabolic process	262	85	61.76	0.00057
+GO:0030901	midbrain development	54	24	12.73	0.00057
+GO:0007215	glutamate receptor signaling pathway	30	21	7.07	6e-04
+GO:0097305	response to alcohol	191	65	45.02	0.00061
+GO:0035025	positive regulation of Rho protein signal transduction	13	9	3.06	0.00062
+GO:0031069	hair follicle morphogenesis	13	9	3.06	0.00062
+GO:0030334	regulation of cell migration	340	158	80.14	0.00064
+GO:0035151	regulation of tube size, open tracheal system	64	31	15.09	0.00065
+GO:0014016	neuroblast differentiation	49	25	11.55	0.00065
+GO:0060079	excitatory postsynaptic potential	42	23	9.9	0.00065
+GO:0051046	regulation of secretion	299	114	70.48	0.00066
+GO:0072001	renal system development	194	96	45.73	0.00067
+GO:0001657	ureteric bud development	57	32	13.44	0.00068
+GO:0090287	regulation of cellular response to growth factor stimulus	151	65	35.59	0.00069
+GO:0003073	regulation of systemic arterial blood pressure	34	17	8.01	7e-04
+GO:0045600	positive regulation of fat cell differentiation	34	17	8.01	7e-04
+GO:0040011	locomotion	1091	450	257.16	0.00071
+GO:0048730	epidermis morphogenesis	18	14	4.24	0.00071
+GO:0022602	ovulation cycle process	18	11	4.24	0.00072
+GO:0140115	export across plasma membrane	18	11	4.24	0.00072
+GO:0009953	dorsal/ventral pattern formation	217	72	51.15	0.00072
+GO:0034616	response to laminar fluid shear stress	5	5	1.18	0.00072
+GO:0035165	embryonic crystal cell differentiation	5	5	1.18	0.00072
+GO:0048099	anterior/posterior lineage restriction, imaginal disc	5	5	1.18	0.00072
+GO:0034351	negative regulation of glial cell apoptotic process	5	5	1.18	0.00072
+GO:0060040	retinal bipolar neuron differentiation	5	5	1.18	0.00072
+GO:0045655	regulation of monocyte differentiation	5	5	1.18	0.00072
+GO:0009952	anterior/posterior pattern specification	266	99	62.7	0.00073
+GO:0045639	positive regulation of myeloid cell differentiation	37	18	8.72	0.00075
+GO:0071542	dopaminergic neuron differentiation	37	18	8.72	0.00075
+GO:0007166	cell surface receptor signaling pathway	1199	449	282.61	0.00075
+GO:0030326	embryonic limb morphogenesis	80	32	18.86	0.00075
+GO:0061005	cell differentiation involved in kidney development	40	21	9.43	0.00076
+GO:0007631	feeding behavior	85	37	20.04	0.00077
+GO:0007423	sensory organ development	711	285	167.59	0.00077
+GO:0035051	cardiocyte differentiation	103	39	24.28	0.00077
+GO:0042689	regulation of crystal cell differentiation	11	8	2.59	0.00077
+GO:0060644	mammary gland epithelial cell differentiation	11	8	2.59	0.00077
+GO:0043114	regulation of vascular permeability	11	8	2.59	0.00077
+GO:0045186	zonula adherens assembly	11	8	2.59	0.00077
+GO:0090190	positive regulation of branching involved in ureteric bud morphogenesis	11	8	2.59	0.00077
+GO:0021954	central nervous system neuron development	54	27	12.73	0.00079
+GO:0050805	negative regulation of synaptic transmission	53	26	12.49	0.00079
+GO:0035147	branch fusion, open tracheal system	26	14	6.13	0.00081
+GO:0060122	inner ear receptor cell stereocilium organization	26	14	6.13	0.00081
+GO:0048812	neuron projection morphogenesis	606	257	142.84	0.00081
+GO:0048665	neuron fate specification	46	21	10.84	0.00081
+GO:0051130	positive regulation of cellular component organization	546	160	128.7	0.00084
+GO:0007416	synapse assembly	185	76	43.61	0.00089
+GO:0048708	astrocyte differentiation	36	21	8.49	9e-04
+GO:0015696	ammonium transport	9	7	2.12	0.00091
+GO:0097084	vascular associated smooth muscle cell development	9	7	2.12	0.00091
+GO:0060307	regulation of ventricular cardiac muscle cell membrane repolarization	9	7	2.12	0.00091
+GO:0010594	regulation of endothelial cell migration	70	33	16.5	0.00091
+GO:0034333	adherens junction assembly	18	14	4.24	0.00094
+GO:0035024	negative regulation of Rho protein signal transduction	7	6	1.65	0.00095
+GO:0048036	central complex development	7	6	1.65	0.00095
+GO:0014002	astrocyte development	7	6	1.65	0.00095
+GO:0045608	negative regulation of inner ear auditory receptor cell differentiation	7	6	1.65	0.00095
+GO:0022408	negative regulation of cell-cell adhesion	65	27	15.32	0.00096
+GO:0030199	collagen fibril organization	16	10	3.77	0.001
+GO:0048532	anatomical structure arrangement	16	10	3.77	0.001
+GO:0008345	larval locomotory behavior	32	16	7.54	0.001
+GO:0007193	adenylate cyclase-inhibiting G protein-coupled receptor signaling pathway	32	16	7.54	0.001
+GO:0007455	eye-antennal disc morphogenesis	62	26	14.61	0.001
+GO:0048749	compound eye development	357	153	84.15	0.00104
+GO:0033627	cell adhesion mediated by integrin	35	17	8.25	0.00107
+GO:0014074	response to purine-containing compound	88	34	20.74	0.00108
+GO:0007601	visual perception	88	34	20.74	0.00108
+GO:0001709	cell fate determination	165	61	38.89	0.00109
+GO:1902531	regulation of intracellular signal transduction	727	258	171.36	0.00112
+GO:0002062	chondrocyte differentiation	50	22	11.79	0.00113
+GO:0030278	regulation of ossification	50	22	11.79	0.00113
+GO:0051283	negative regulation of sequestering of calcium ion	44	20	10.37	0.00114
+GO:0035725	sodium ion transmembrane transport	44	20	10.37	0.00114
+GO:0042129	regulation of T cell proliferation	44	20	10.37	0.00114
+GO:0060674	placenta blood vessel development	24	13	5.66	0.00115
+GO:0016525	negative regulation of angiogenesis	24	13	5.66	0.00115
+GO:0043052	thermotaxis	24	13	5.66	0.00115
+GO:0002042	cell migration involved in sprouting angiogenesis	24	13	5.66	0.00115
+GO:0014070	response to organic cyclic compound	458	164	107.95	0.0012
+GO:0009612	response to mechanical stimulus	96	45	22.63	0.00128
+GO:0048729	tissue morphogenesis	797	336	187.86	0.00128
+GO:0048168	regulation of neuronal synaptic plasticity	39	26	9.19	0.00131
+GO:0071260	cellular response to mechanical stimulus	27	14	6.36	0.00131
+GO:1903053	regulation of extracellular matrix organization	27	14	6.36	0.00131
+GO:0009968	negative regulation of signal transduction	632	211	148.97	0.00132
+GO:0071407	cellular response to organic cyclic compound	264	89	62.23	0.00135
+GO:0021781	glial cell fate commitment	19	11	4.48	0.00135
+GO:0007426	tracheal outgrowth, open tracheal system	19	11	4.48	0.00135
+GO:0007412	axon target recognition	19	11	4.48	0.00135
+GO:0007588	excretion	19	11	4.48	0.00135
+GO:0045217	cell-cell junction maintenance	14	9	3.3	0.00136
+GO:0060065	uterus development	14	9	3.3	0.00136
+GO:0003151	outflow tract morphogenesis	57	24	13.44	0.00145
+GO:0048585	negative regulation of response to stimulus	745	258	175.6	0.00145
+GO:1903037	regulation of leukocyte cell-cell adhesion	86	33	20.27	0.00146
+GO:0060627	regulation of vesicle-mediated transport	277	93	65.29	0.00148
+GO:0017156	calcium-ion regulated exocytosis	33	16	7.78	0.00153
+GO:0015850	organic hydroxy compound transport	125	50	29.46	0.00154
+GO:0050806	positive regulation of synaptic transmission	61	31	14.38	0.00154
+GO:0022029	telencephalon cell migration	51	22	12.02	0.00155
+GO:0008064	regulation of actin polymerization or depolymerization	93	35	21.92	0.00158
+GO:0007218	neuropeptide signaling pathway	36	17	8.49	0.00158
+GO:0090102	cochlea development	36	17	8.49	0.00158
+GO:0042552	myelination	48	21	11.31	0.00158
+GO:0007569	cell aging	48	21	11.31	0.00158
+GO:0072089	stem cell proliferation	44	23	10.37	0.00161
+GO:0008407	chaeta morphogenesis	39	18	9.19	0.00161
+GO:0030042	actin filament depolymerization	22	12	5.19	0.00165
+GO:0050803	regulation of synapse structure or activity	213	82	50.21	0.00165
+GO:0007160	cell-matrix adhesion	80	37	18.86	0.00166
+GO:0042391	regulation of membrane potential	189	81	44.55	0.00167
+GO:0022612	gland morphogenesis	148	67	34.88	0.00167
+GO:0048638	regulation of developmental growth	319	119	75.19	0.00169
+GO:0048863	stem cell differentiation	163	65	38.42	0.00169
+GO:0007155	cell adhesion	461	194	108.66	0.0017
+GO:0051588	regulation of neurotransmitter transport	68	30	16.03	0.0018
+GO:0007391	dorsal closure	97	36	22.86	0.00182
+GO:0009912	auditory receptor cell fate commitment	12	8	2.83	0.00184
+GO:0055078	sodium ion homeostasis	12	8	2.83	0.00184
+GO:0035774	positive regulation of insulin secretion involved in cellular response to glucose stimulus	12	8	2.83	0.00184
+GO:0035988	chondrocyte proliferation	12	8	2.83	0.00184
+GO:0007415	defasciculation of motor neuron axon	12	8	2.83	0.00184
+GO:0002223	stimulatory C-type lectin receptor signaling pathway	12	8	2.83	0.00184
+GO:0048100	wing disc anterior/posterior pattern formation	12	8	2.83	0.00184
+GO:0045596	negative regulation of cell differentiation	380	139	89.57	0.00184
+GO:0042051	compound eye photoreceptor development	100	46	23.57	0.00185
+GO:0001964	startle response	17	10	4.01	0.00191
+GO:1903779	regulation of cardiac conduction	17	10	4.01	0.00191
+GO:0021783	preganglionic parasympathetic fiber development	17	10	4.01	0.00191
+GO:0007475	apposition of dorsal and ventral imaginal disc-derived wing surfaces	17	10	4.01	0.00191
+GO:0060253	negative regulation of glial cell proliferation	17	10	4.01	0.00191
+GO:0008543	fibroblast growth factor receptor signaling pathway	58	24	13.67	0.00193
+GO:0043524	negative regulation of neuron apoptotic process	84	32	19.8	0.00196
+GO:0019722	calcium-mediated signaling	84	32	19.8	0.00196
+GO:0051896	regulation of protein kinase B signaling	59	31	13.91	0.00197
+GO:1903522	regulation of blood circulation	117	57	27.58	0.00201
+GO:1901653	cellular response to peptide	158	58	37.24	0.00201
+GO:0051960	regulation of nervous system development	327	118	77.08	0.00206
+GO:0002385	mucosal immune response	28	14	6.6	0.00206
+GO:0007427	epithelial cell migration, open tracheal system	28	14	6.6	0.00206
+GO:0021782	glial cell development	75	33	17.68	0.00208
+GO:0050770	regulation of axonogenesis	81	31	19.09	0.0021
+GO:0001525	angiogenesis	162	73	38.18	0.00214
+GO:0010595	positive regulation of endothelial cell migration	49	21	11.55	0.00217
+GO:0010634	positive regulation of epithelial cell migration	86	38	20.27	0.00218
+GO:0030168	platelet activation	31	15	7.31	0.00219
+GO:0045646	regulation of erythrocyte differentiation	31	15	7.31	0.00219
+GO:0006928	movement of cell or subcellular component	1173	467	276.48	0.00223
+GO:0042749	regulation of circadian sleep/wake cycle	34	16	8.01	0.00226
+GO:0001938	positive regulation of endothelial cell proliferation	34	16	8.01	0.00226
+GO:0022600	digestive system process	34	16	8.01	0.00226
+GO:0055117	regulation of cardiac muscle contraction	34	16	8.01	0.00226
+GO:0050731	positive regulation of peptidyl-tyrosine phosphorylation	34	16	8.01	0.00226
+GO:0120032	regulation of plasma membrane bounded cell projection assembly	122	43	28.76	0.00226
+GO:0002164	larval development	149	56	35.12	0.00233
+GO:0048646	anatomical structure formation involved in morphogenesis	807	299	190.22	0.00235
+GO:0016318	ommatidial rotation	20	11	4.71	0.00237
+GO:0021516	dorsal spinal cord development	20	11	4.71	0.00237
+GO:0060444	branching involved in mammary gland duct morphogenesis	20	11	4.71	0.00237
+GO:0007369	gastrulation	168	56	39.6	0.00238
+GO:0016332	establishment or maintenance of polarity of embryonic epithelium	10	7	2.36	0.00242
+GO:0086005	ventricular cardiac muscle cell action potential	10	7	2.36	0.00242
+GO:0072033	renal vesicle formation	10	7	2.36	0.00242
+GO:0030238	male sex determination	10	7	2.36	0.00242
+GO:0072577	endothelial cell apoptotic process	10	7	2.36	0.00242
+GO:0002720	positive regulation of cytokine production involved in immune response	10	7	2.36	0.00242
+GO:0018991	oviposition	10	7	2.36	0.00242
+GO:0010839	negative regulation of keratinocyte proliferation	10	7	2.36	0.00242
+GO:0098703	calcium ion import across plasma membrane	10	7	2.36	0.00242
+GO:0031281	positive regulation of cyclase activity	10	7	2.36	0.00242
+GO:0060445	branching involved in salivary gland morphogenesis	10	7	2.36	0.00242
+GO:0030324	lung development	109	46	25.69	0.00245
+GO:0006959	humoral immune response	126	44	29.7	0.00249
+GO:2000242	negative regulation of reproductive process	59	24	13.91	0.00254
+GO:0099537	trans-synaptic signaling	456	197	107.48	0.00257
+GO:0050954	sensory perception of mechanical stimulus	160	72	37.71	0.00261
+GO:0021915	neural tube development	121	52	28.52	0.00267
+GO:0045860	positive regulation of protein kinase activity	166	61	39.13	0.00268
+GO:0016339	calcium-dependent cell-cell adhesion via plasma membrane cell adhesion molecules	15	9	3.54	0.0027
+GO:0002026	regulation of the force of heart contraction	15	9	3.54	0.0027
+GO:0015812	gamma-aminobutyric acid transport	15	9	3.54	0.0027
+GO:0097192	extrinsic apoptotic signaling pathway in absence of ligand	23	12	5.42	0.00272
+GO:0035168	larval lymph gland hemocyte differentiation	23	12	5.42	0.00272
+GO:0070373	negative regulation of ERK1 and ERK2 cascade	23	12	5.42	0.00272
+GO:0051926	negative regulation of calcium ion transport	23	12	5.42	0.00272
+GO:0007413	axonal fasciculation	23	12	5.42	0.00272
+GO:0070983	dendrite guidance	23	12	5.42	0.00272
+GO:0045661	regulation of myoblast differentiation	23	12	5.42	0.00272
+GO:0045670	regulation of osteoclast differentiation	23	12	5.42	0.00272
+GO:0001764	neuron migration	99	36	23.33	0.00273
+GO:0050808	synapse organization	365	139	86.03	0.00274
+GO:0035270	endocrine system development	97	47	22.86	0.00274
+GO:0009887	animal organ morphogenesis	1047	439	246.79	0.00286
+GO:0022407	regulation of cell-cell adhesion	146	58	34.41	0.00289
+GO:0040018	positive regulation of multicellular organism growth	50	21	11.79	0.00292
+GO:0030431	sleep	66	26	15.56	0.00292
+GO:0060021	roof of mouth development	66	26	15.56	0.00292
+GO:0007015	actin filament organization	222	97	52.33	0.00293
+GO:0048545	response to steroid hormone	141	48	33.23	0.00294
+GO:0017143	insecticide metabolic process	26	13	6.13	0.00297
+GO:0045676	regulation of R7 cell differentiation	26	13	6.13	0.00297
+GO:0048844	artery morphogenesis	54	29	12.73	0.003
+GO:1902904	negative regulation of supramolecular fiber organization	59	29	13.91	0.00301
+GO:0018108	peptidyl-tyrosine phosphorylation	94	45	22.16	0.00301
+GO:0030917	midbrain-hindbrain boundary development	14	11	3.3	0.00302
+GO:0090090	negative regulation of canonical Wnt signaling pathway	76	29	17.91	0.00303
+GO:0001661	conditioned taste aversion	8	6	1.89	0.00305
+GO:0035225	determination of genital disc primordium	8	6	1.89	0.00305
+GO:0035235	ionotropic glutamate receptor signaling pathway	8	6	1.89	0.00305
+GO:0099601	regulation of neurotransmitter receptor activity	8	6	1.89	0.00305
+GO:0072282	metanephric nephron tubule morphogenesis	8	6	1.89	0.00305
+GO:0007486	imaginal disc-derived female genitalia development	8	6	1.89	0.00305
+GO:0061626	pharyngeal arch artery morphogenesis	8	6	1.89	0.00305
+GO:0021960	anterior commissure morphogenesis	8	6	1.89	0.00305
+GO:0008584	male gonad development	63	25	14.85	0.00311
+GO:0045667	regulation of osteoblast differentiation	71	32	16.74	0.00313
+GO:0036011	imaginal disc-derived leg segmentation	29	14	6.84	0.00313
+GO:0048731	system development	2943	997	693.69	0.00314
+GO:1901654	response to ketone	93	34	21.92	0.00319
+GO:0035159	regulation of tube length, open tracheal system	41	18	9.66	0.0032
+GO:0014015	positive regulation of gliogenesis	41	18	9.66	0.0032
+GO:0061053	somite development	60	24	14.14	0.0033
+GO:0009954	proximal/distal pattern formation	41	21	9.66	0.00332
+GO:0003323	type B pancreatic cell development	18	10	4.24	0.0034
+GO:0007430	terminal branching, open tracheal system	18	10	4.24	0.0034
+GO:1901381	positive regulation of potassium ion transmembrane transport	18	10	4.24	0.0034
+GO:0045924	regulation of female receptivity	18	10	4.24	0.0034
+GO:0001708	cell fate specification	132	56	31.11	0.00341
+GO:0050678	regulation of epithelial cell proliferation	152	67	35.83	0.00344
+GO:0048871	multicellular organismal homeostasis	237	97	55.86	0.00344
+GO:0007525	somatic muscle development	90	33	21.21	0.00345
+GO:0007414	axonal defasciculation	18	13	4.24	0.00346
+GO:0030534	adult behavior	229	92	53.98	0.00348
+GO:0008062	eclosion rhythm	6	5	1.41	0.0035
+GO:0061082	myeloid leukocyte cytokine production	6	5	1.41	0.0035
+GO:0072014	proximal tubule development	6	5	1.41	0.0035
+GO:0003273	cell migration involved in endocardial cushion formation	6	5	1.41	0.0035
+GO:0035211	spermathecum morphogenesis	6	5	1.41	0.0035
+GO:0070168	negative regulation of biomineral tissue development	6	5	1.41	0.0035
+GO:0018149	peptide cross-linking	6	5	1.41	0.0035
+GO:0032490	detection of molecule of bacterial origin	6	5	1.41	0.0035
+GO:0070831	basement membrane assembly	6	5	1.41	0.0035
+GO:0021555	midbrain-hindbrain boundary morphogenesis	6	5	1.41	0.0035
+GO:0045725	positive regulation of glycogen biosynthetic process	6	5	1.41	0.0035
+GO:1904781	positive regulation of protein localization to centrosome	6	5	1.41	0.0035
+GO:1904861	excitatory synapse assembly	6	5	1.41	0.0035
+GO:2000974	negative regulation of pro-B cell differentiation	6	5	1.41	0.0035
+GO:0048589	developmental growth	609	235	143.55	0.00351
+GO:0042327	positive regulation of phosphorylation	298	113	70.24	0.00363
+GO:0007424	open tracheal system development	244	120	57.51	0.00363
+GO:0008589	regulation of smoothened signaling pathway	67	26	15.79	0.00373
+GO:0006468	protein phosphorylation	634	227	149.44	0.00373
+GO:0001893	maternal placenta development	13	8	3.06	0.00379
+GO:0046331	lateral inhibition	13	8	3.06	0.00379
+GO:0046339	diacylglycerol metabolic process	13	8	3.06	0.00379
+GO:0035289	posterior head segmentation	13	8	3.06	0.00379
+GO:0030728	ovulation	13	8	3.06	0.00379
+GO:0048715	negative regulation of oligodendrocyte differentiation	13	8	3.06	0.00379
+GO:0045761	regulation of adenylate cyclase activity	13	8	3.06	0.00379
+GO:0016059	deactivation of rhodopsin mediated signaling	13	8	3.06	0.00379
+GO:0042249	establishment of planar polarity of embryonic epithelium	13	8	3.06	0.00379
+GO:0048593	camera-type eye morphogenesis	89	47	20.98	0.00383
+GO:0007478	leg disc morphogenesis	103	42	24.28	0.00387
+GO:0043588	skin development	122	56	28.76	0.00388
+GO:0046717	acid secretion	21	11	4.95	0.00392
+GO:1900424	regulation of defense response to bacterium	21	11	4.95	0.00392
+GO:0023051	regulation of signaling	1641	582	386.8	0.00399
+GO:0008049	male courtship behavior	70	33	16.5	0.00404
+GO:0050679	positive regulation of epithelial cell proliferation	79	35	18.62	0.00404
+GO:0060560	developmental growth involved in morphogenesis	207	89	48.79	0.00407
+GO:0045664	regulation of neuron differentiation	183	73	43.13	0.00408
+GO:0035152	regulation of tube architecture, open tracheal system	114	57	26.87	0.0041
+GO:0007173	epidermal growth factor receptor signaling pathway	73	32	17.21	0.00413
+GO:0031175	neuron projection development	772	316	181.97	0.00414
+GO:0007431	salivary gland development	134	58	31.58	0.00421
+GO:0016334	establishment or maintenance of polarity of follicular epithelium	24	12	5.66	0.00428
+GO:0055010	ventricular cardiac muscle tissue morphogenesis	24	12	5.66	0.00428
+GO:0051966	regulation of synaptic transmission, glutamatergic	24	12	5.66	0.00428
+GO:0043647	inositol phosphate metabolic process	24	12	5.66	0.00428
+GO:0045926	negative regulation of growth	147	49	34.65	0.00431
+GO:0060173	limb development	110	46	25.93	0.00434
+GO:0018107	peptidyl-threonine phosphorylation	81	30	19.09	0.00435
+GO:0034446	substrate adhesion-dependent cell spreading	42	18	9.9	0.00439
+GO:0021587	cerebellum morphogenesis	27	13	6.36	0.00451
+GO:0071364	cellular response to epidermal growth factor stimulus	27	13	6.36	0.00451
+GO:0042220	response to cocaine	27	13	6.36	0.00451
+GO:0001818	negative regulation of cytokine production	58	23	13.67	0.00452
+GO:1903169	regulation of calcium ion transmembrane transport	58	23	13.67	0.00452
+GO:0030858	positive regulation of epithelial cell differentiation	37	19	8.72	0.00455
+GO:0007409	axonogenesis	456	198	107.48	0.00455
+GO:0021983	pituitary gland development	36	16	8.49	0.00461
+GO:0051492	regulation of stress fiber assembly	36	16	8.49	0.00461
+GO:0021879	forebrain neuron differentiation	30	14	7.07	0.00462
+GO:0008284	positive regulation of cell population proliferation	399	143	94.05	0.00463
+GO:0045669	positive regulation of osteoblast differentiation	33	15	7.78	0.00465
+GO:0042472	inner ear morphogenesis	68	26	16.03	0.0047
+GO:0016055	Wnt signaling pathway	257	108	60.58	0.00474
+GO:0042386	hemocyte differentiation	43	23	10.14	0.00476
+GO:0046579	positive regulation of Ras protein signal transduction	29	18	6.84	0.00478
+GO:0061041	regulation of wound healing	55	22	12.96	0.0048
+GO:0003338	metanephros morphogenesis	24	15	5.66	0.00481
+GO:0032102	negative regulation of response to external stimulus	111	45	26.16	0.00482
+GO:0035909	aorta morphogenesis	23	14	5.42	0.00483
+GO:0010646	regulation of cell communication	1632	575	384.67	0.00485
+GO:0098810	neurotransmitter reuptake	16	9	3.77	0.00488
+GO:0050767	regulation of neurogenesis	245	87	57.75	0.00493
+GO:0008285	negative regulation of cell population proliferation	335	109	78.96	0.00494
+GO:0007297	ovarian follicle cell migration	115	50	27.11	0.00502
+GO:0048469	cell maturation	243	75	57.28	0.00502
+GO:0003401	axis elongation	22	14	5.19	0.00524
+GO:0072170	metanephric tubule development	19	13	4.48	0.00524
+GO:0008544	epidermis development	206	92	48.56	0.00526
+GO:0060749	mammary gland alveolus development	11	7	2.59	0.0053
+GO:0060602	branch elongation of an epithelium	11	7	2.59	0.0053
+GO:0055075	potassium ion homeostasis	11	7	2.59	0.0053
+GO:0035640	exploration behavior	11	7	2.59	0.0053
+GO:0032291	axon ensheathment in central nervous system	11	7	2.59	0.0053
+GO:0007438	oenocyte development	11	7	2.59	0.0053
+GO:0002707	negative regulation of lymphocyte mediated immunity	11	7	2.59	0.0053
+GO:0035114	imaginal disc-derived appendage morphogenesis	323	142	76.13	0.00532
+GO:0007178	transmembrane receptor protein serine/threonine kinase signaling pathway	212	93	49.97	0.00535
+GO:0051090	regulation of DNA-binding transcription factor activity	181	58	42.66	0.00537
+GO:0042058	regulation of epidermal growth factor receptor signaling pathway	49	20	11.55	0.00537
+GO:0010508	positive regulation of autophagy	62	24	14.61	0.00541
+GO:0090263	positive regulation of canonical Wnt signaling pathway	62	24	14.61	0.00541
+GO:0048085	adult chitin-containing cuticle pigmentation	72	27	16.97	0.00547
+GO:0021675	nerve development	51	27	12.02	0.00547
+GO:0016477	cell migration	693	296	163.34	0.00554
+GO:0031345	negative regulation of cell projection organization	89	32	20.98	0.00555
+GO:0007043	cell-cell junction assembly	110	56	25.93	0.00562
+GO:0060571	morphogenesis of an epithelial fold	19	10	4.48	0.00567
+GO:0007464	R3/R4 cell fate commitment	19	10	4.48	0.00567
+GO:0007485	imaginal disc-derived male genitalia development	19	10	4.48	0.00567
+GO:0035924	cellular response to vascular endothelial growth factor stimulus	19	10	4.48	0.00567
+GO:0021542	dentate gyrus development	19	10	4.48	0.00567
+GO:0060026	convergent extension	19	10	4.48	0.00567
+GO:0021978	telencephalon regionalization	19	10	4.48	0.00567
+GO:0098815	modulation of excitatory postsynaptic potential	19	10	4.48	0.00567
+GO:0030900	forebrain development	257	105	60.58	0.0057
+GO:0002009	morphogenesis of an epithelium	751	316	177.02	0.00571
+GO:0007281	germ cell development	648	199	152.74	0.0058
+GO:0043065	positive regulation of apoptotic process	222	75	52.33	0.00588
+GO:0035239	tube morphogenesis	779	329	183.62	0.00598
+GO:0035883	enteroendocrine cell differentiation	40	21	9.43	0.00605
+GO:0071772	response to BMP	102	51	24.04	0.00605
+GO:0072175	epithelial tube formation	97	39	22.86	0.00609
+GO:0007628	adult walking behavior	40	17	9.43	0.00616
+GO:0051017	actin filament bundle assembly	84	39	19.8	0.00616
+GO:0072091	regulation of stem cell proliferation	22	11	5.19	0.00619
+GO:2000737	negative regulation of stem cell differentiation	22	11	5.19	0.00619
+GO:0042310	vasoconstriction	22	11	5.19	0.00619
+GO:0045500	sevenless signaling pathway	22	11	5.19	0.00619
+GO:0009642	response to light intensity	22	11	5.19	0.00619
+GO:0050796	regulation of insulin secretion	79	37	18.62	0.00621
+GO:0045747	positive regulation of Notch signaling pathway	66	25	15.56	0.00634
+GO:0014855	striated muscle cell proliferation	37	16	8.72	0.00637
+GO:0060675	ureteric bud morphogenesis	39	21	9.19	0.00647
+GO:1990830	cellular response to leukemia inhibitory factor	83	30	19.56	0.00653
+GO:0033138	positive regulation of peptidyl-serine phosphorylation	34	15	8.01	0.00653
+GO:0007528	neuromuscular junction development	171	61	40.31	0.00656
+GO:0008593	regulation of Notch signaling pathway	146	54	34.41	0.00662
+GO:0001541	ovarian follicle development	28	13	6.6	0.00662
+GO:0090630	activation of GTPase activity	28	13	6.6	0.00662
+GO:0061097	regulation of protein tyrosine kinase activity	28	13	6.6	0.00662
+GO:0003209	cardiac atrium morphogenesis	28	13	6.6	0.00662
+GO:0070830	bicellular tight junction assembly	28	13	6.6	0.00662
+GO:0016476	regulation of embryonic cell shape	31	14	7.31	0.00662
+GO:1903351	cellular response to dopamine	31	14	7.31	0.00662
+GO:0048699	generation of neurons	1235	476	291.1	0.00666
+GO:0009791	post-embryonic development	622	239	146.61	0.00681
+GO:0031214	biomineral tissue development	56	25	13.2	0.00686
+GO:0043149	stress fiber assembly	50	24	11.79	0.00687
+GO:0061178	regulation of insulin secretion involved in cellular response to glucose stimulus	26	16	6.13	0.00692
+GO:0019932	second-messenger-mediated signaling	131	51	30.88	0.00694
+GO:0071901	negative regulation of protein serine/threonine kinase activity	50	20	11.79	0.007
+GO:0038083	peptidyl-tyrosine autophosphorylation	14	8	3.3	0.00704
+GO:0001746	Bolwig's organ morphogenesis	14	8	3.3	0.00704
+GO:0014866	skeletal myofibril assembly	14	8	3.3	0.00704
+GO:0110118	negative regulation of compound eye photoreceptor cell differentiation	14	8	3.3	0.00704
+GO:0008293	torso signaling pathway	14	8	3.3	0.00704
+GO:0070306	lens fiber cell differentiation	14	8	3.3	0.00704
+GO:0070593	dendrite self-avoidance	14	8	3.3	0.00704
+GO:0014068	positive regulation of phosphatidylinositol 3-kinase signaling	14	8	3.3	0.00704
+GO:0007522	visceral muscle development	14	8	3.3	0.00704
+GO:2000637	positive regulation of gene silencing by miRNA	14	8	3.3	0.00704
+GO:0045601	regulation of endothelial cell differentiation	14	8	3.3	0.00704
+GO:1901739	regulation of myoblast fusion	14	8	3.3	0.00704
+GO:0061337	cardiac conduction	40	23	9.43	0.00714
+GO:0001953	negative regulation of cell-matrix adhesion	16	11	3.77	0.00726
+GO:0061351	neural precursor cell proliferation	190	69	44.78	0.00727
+GO:0071632	optomotor response	9	6	2.12	0.00732
+GO:0097105	presynaptic membrane assembly	9	6	2.12	0.00732
+GO:0042694	muscle cell fate specification	9	6	2.12	0.00732
+GO:0015874	norepinephrine transport	9	6	2.12	0.00732
+GO:0035994	response to muscle stretch	9	6	2.12	0.00732
+GO:0021559	trigeminal nerve development	9	6	2.12	0.00732
+GO:0043278	response to morphine	9	6	2.12	0.00732
+GO:0007216	G protein-coupled glutamate receptor signaling pathway	9	6	2.12	0.00732
+GO:0007539	primary sex determination, soma	9	6	2.12	0.00732
+GO:0050914	sensory perception of salty taste	9	6	2.12	0.00732
+GO:0051349	positive regulation of lyase activity	9	6	2.12	0.00732
+GO:0060164	regulation of timing of neuron differentiation	9	6	2.12	0.00732
+GO:0060221	retinal rod cell differentiation	9	6	2.12	0.00732
+GO:0030510	regulation of BMP signaling pathway	74	38	17.44	0.00733
+GO:0001843	neural tube closure	60	23	14.14	0.00733
+GO:0043547	positive regulation of GTPase activity	105	41	24.75	0.00734
+GO:1902533	positive regulation of intracellular signal transduction	351	131	82.73	0.00742
+GO:0009581	detection of external stimulus	119	56	28.05	0.00743
+GO:0048565	digestive tract development	161	74	37.95	0.00749
+GO:0051093	negative regulation of developmental process	521	194	122.8	0.00768
+GO:0061525	hindgut development	51	23	12.02	0.00771
+GO:0008306	associative learning	80	43	18.86	0.00771
+GO:0071248	cellular response to metal ion	57	22	13.44	0.00787
+GO:0007167	enzyme linked receptor protein signaling pathway	517	210	121.86	0.00789
+GO:0043434	response to peptide hormone	173	61	40.78	0.00794
+GO:0035567	non-canonical Wnt signaling pathway	55	28	12.96	0.00796
+GO:0008582	regulation of synaptic assembly at neuromuscular junction	91	32	21.45	0.00806
+GO:0048706	embryonic skeletal system development	91	32	21.45	0.00806
+GO:0097553	calcium ion transmembrane import into cytosol	51	24	12.02	0.00806
+GO:0035282	segmentation	248	94	58.46	0.00809
+GO:0071805	potassium ion transmembrane transport	72	31	16.97	0.00816
+GO:0010817	regulation of hormone levels	306	106	72.13	0.00818
+GO:0051047	positive regulation of secretion	153	54	36.06	0.00821
+GO:0086065	cell communication involved in cardiac conduction	17	9	4.01	0.00823
+GO:0044331	cell-cell adhesion mediated by cadherin	17	9	4.01	0.00823
+GO:0022617	extracellular matrix disassembly	17	9	4.01	0.00823
+GO:0035767	endothelial cell chemotaxis	17	9	4.01	0.00823
+GO:1902229	regulation of intrinsic apoptotic signaling pathway in response to DNA damage	17	9	4.01	0.00823
+GO:0021551	central nervous system morphogenesis	17	9	4.01	0.00823
+GO:0043267	negative regulation of potassium ion transport	17	9	4.01	0.00823
+GO:0032925	regulation of activin receptor signaling pathway	17	9	4.01	0.00823
+GO:0071880	adenylate cyclase-activating adrenergic receptor signaling pathway	17	9	4.01	0.00823
+GO:0034766	negative regulation of ion transmembrane transport	41	17	9.66	0.00825
+GO:0033077	T cell differentiation in thymus	41	17	9.66	0.00825
+GO:0046661	male sex differentiation	114	45	26.87	0.00852
+GO:0022409	positive regulation of cell-cell adhesion	81	29	19.09	0.0086
+GO:0035317	imaginal disc-derived wing hair organization	38	16	8.96	0.00864
+GO:0002028	regulation of sodium ion transport	38	16	8.96	0.00864
+GO:0007472	wing disc morphogenesis	272	124	64.11	0.00864
+GO:0007162	negative regulation of cell adhesion	101	47	23.81	0.00876
+GO:0001837	epithelial to mesenchymal transition	88	31	20.74	0.00877
+GO:0007603	phototransduction, visible light	48	23	11.31	0.00878
+GO:0032869	cellular response to insulin stimulus	109	37	25.69	0.00878
+GO:0035162	embryonic hemopoiesis	40	20	9.43	0.00883
+GO:0032271	regulation of protein polymerization	102	35	24.04	0.00884
+GO:0048872	homeostasis of number of cells	144	53	33.94	0.00888
+GO:0007602	phototransduction	71	34	16.74	0.00896
+GO:0046068	cGMP metabolic process	20	10	4.71	0.00897
+GO:0070839	metal ion export	20	10	4.71	0.00897
+GO:0050884	neuromuscular process controlling posture	20	10	4.71	0.00897
+GO:0050832	defense response to fungus	35	15	8.25	0.00898
+GO:0007632	visual behavior	63	33	14.85	0.00899
+GO:0030718	germ-line stem cell population maintenance	71	26	16.74	0.00901
+GO:0009620	response to fungus	58	26	13.67	0.00913
+GO:0003015	heart process	130	60	30.64	0.00915
+GO:0043279	response to alkaloid	82	36	19.33	0.00918
+GO:0048814	regulation of dendrite morphogenesis	61	23	14.38	0.0092
+GO:0006469	negative regulation of protein kinase activity	98	39	23.1	0.00921
+GO:0046580	negative regulation of Ras protein signal transduction	30	17	7.07	0.00922
+GO:0021545	cranial nerve development	32	17	7.54	0.00923
+GO:0035010	encapsulation of foreign target	32	14	7.54	0.00927
+GO:1901985	positive regulation of protein acetylation	32	14	7.54	0.00927
+GO:0006024	glycosaminoglycan biosynthetic process	32	14	7.54	0.00927
+GO:0060420	regulation of heart growth	32	14	7.54	0.00927
+GO:0022405	hair cycle process	61	28	14.38	0.00933
+GO:0014909	smooth muscle cell migration	23	11	5.42	0.00937
+GO:0007449	proximal/distal pattern formation, imaginal disc	23	11	5.42	0.00937
+GO:2000136	regulation of cell proliferation involved in heart morphogenesis	23	11	5.42	0.00937
+GO:0009593	detection of chemical stimulus	54	24	12.73	0.00944
+GO:0035172	hemocyte proliferation	29	13	6.84	0.00945
+GO:0035850	epithelial cell differentiation involved in kidney development	29	13	6.84	0.00945
+GO:0032835	glomerulus development	29	13	6.84	0.00945
+GO:0007614	short-term memory	29	13	6.84	0.00945
+GO:1905314	semi-lunar valve development	26	12	6.13	0.00951
+GO:0007400	neuroblast fate determination	26	12	6.13	0.00951
+GO:0001892	embryonic placenta development	48	19	11.31	0.00963
+GO:0002244	hematopoietic progenitor cell differentiation	64	27	15.09	0.00971
+GO:0035120	post-embryonic appendage morphogenesis	309	137	72.83	0.00975
+GO:0046533	negative regulation of photoreceptor cell differentiation	21	13	4.95	0.00975
+GO:0043405	regulation of MAP kinase activity	68	25	16.03	0.00976
+GO:0050906	detection of stimulus involved in sensory perception	68	25	16.03	0.00976
+GO:1903306	negative regulation of regulated secretory pathway	14	10	3.3	0.00978
+GO:0042711	maternal behavior	7	5	1.65	0.00986
+GO:0051895	negative regulation of focal adhesion assembly	7	5	1.65	0.00986
+GO:0042670	retinal cone cell differentiation	7	5	1.65	0.00986
+GO:0072070	loop of Henle development	7	5	1.65	0.00986
+GO:0035292	specification of segmental identity, trunk	7	5	1.65	0.00986
+GO:0006930	substrate-dependent cell migration, cell extension	7	5	1.65	0.00986
+GO:0061331	epithelial cell proliferation involved in Malpighian tubule morphogenesis	7	5	1.65	0.00986
+GO:1902043	positive regulation of extrinsic apoptotic signaling pathway via death domain receptors	7	5	1.65	0.00986
+GO:0002031	G protein-coupled receptor internalization	7	5	1.65	0.00986
+GO:0048053	R1/R6 development	7	5	1.65	0.00986
+GO:0061102	stomach neuroendocrine cell differentiation	7	5	1.65	0.00986
+GO:0032495	response to muramyl dipeptide	7	5	1.65	0.00986
+GO:0035910	ascending aorta morphogenesis	7	5	1.65	0.00986
+GO:2000301	negative regulation of synaptic vesicle exocytosis	7	5	1.65	0.00986
+GO:1905939	regulation of gonad development	7	5	1.65	0.00986
+GO:0031017	exocrine pancreas development	7	5	1.65	0.00986
+GO:2000108	positive regulation of leukocyte apoptotic process	7	5	1.65	0.00986
+GO:0048750	compound eye corneal lens morphogenesis	7	5	1.65	0.00986
+GO:0090494	dopamine uptake	7	5	1.65	0.00986
+GO:0045618	positive regulation of keratinocyte differentiation	7	5	1.65	0.00986
+GO:0016048	detection of temperature stimulus	7	5	1.65	0.00986
+GO:0002934	desmosome organization	7	5	1.65	0.00986
+GO:0097374	sensory neuron axon guidance	7	5	1.65	0.00986
+GO:0034762	regulation of transmembrane transport	199	86	46.91	0.00987
+GO:0017015	regulation of transforming growth factor beta receptor signaling pathway	58	22	13.67	0.00991
+GO:1904375	regulation of protein localization to cell periphery	58	22	13.67	0.00991
+GO:0048675	axon extension	97	39	22.86	0.00992
+GO:0120039	plasma membrane bounded cell projection morphogenesis	611	261	144.02	0.00994

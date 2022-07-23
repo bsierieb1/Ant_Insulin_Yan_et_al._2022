@@ -1,0 +1,55 @@
+GO.ID	Term	Annotated	Significant	Expected	elimFisher
+GO:0046693	sperm storage	17	4	0.17	1.8e-05
+GO:0014070	response to organic cyclic compound	458	17	4.46	3.3e-05
+GO:0007613	memory	136	8	1.32	5e-05
+GO:0015766	disaccharide transport	27	4	0.26	0.00012
+GO:0045475	locomotor rhythm	58	5	0.56	0.00024
+GO:0017085	response to insecticide	65	5	0.63	0.00041
+GO:0008355	olfactory learning	38	4	0.37	0.00048
+GO:0060084	synaptic transmission involved in micturition	5	2	0.05	0.00092
+GO:0014056	regulation of acetylcholine secretion, neurotransmission	5	2	0.05	0.00092
+GO:0021764	amygdala development	5	2	0.05	0.00092
+GO:0048712	negative regulation of astrocyte differentiation	5	2	0.05	0.00092
+GO:0048639	positive regulation of developmental growth	161	7	1.57	0.00094
+GO:0060291	long-term synaptic potentiation	22	3	0.21	0.0012
+GO:0007171	activation of transmembrane receptor protein tyrosine kinase activity	6	2	0.06	0.00137
+GO:0048666	neuron development	942	19	9.17	0.00149
+GO:0008344	adult locomotory behavior	131	6	1.28	0.00169
+GO:0048190	wing disc dorsal/ventral pattern formation	53	4	0.52	0.00171
+GO:0015872	dopamine transport	25	3	0.24	0.00176
+GO:0002165	instar larval or pupal development	508	16	4.95	0.00179
+GO:0014821	phasic smooth muscle contraction	7	2	0.07	0.00191
+GO:0014002	astrocyte development	7	2	0.07	0.00191
+GO:0051240	positive regulation of multicellular organismal process	616	14	6	0.00233
+GO:0048749	compound eye development	357	10	3.48	0.00235
+GO:0035095	behavioral response to nicotine	8	2	0.08	0.00253
+GO:0035041	sperm chromatin decondensation	8	2	0.08	0.00253
+GO:0007632	visual behavior	63	4	0.61	0.00322
+GO:1905144	response to acetylcholine	9	2	0.09	0.00323
+GO:0035220	wing disc development	414	15	4.03	0.00352
+GO:0007476	imaginal disc-derived wing morphogenesis	260	8	2.53	0.0037
+GO:0030431	sleep	66	4	0.64	0.00382
+GO:0098662	inorganic cation transmembrane transport	289	10	2.81	0.00398
+GO:0046929	negative regulation of neurotransmitter secretion	10	2	0.1	0.00401
+GO:0007043	cell-cell junction assembly	110	5	1.07	0.00428
+GO:0034976	response to endoplasmic reticulum stress	213	7	2.07	0.00461
+GO:0035249	synaptic transmission, glutamatergic	35	3	0.34	0.00466
+GO:0007188	adenylate cyclase-modulating G protein-coupled receptor signaling pathway	70	4	0.68	0.00471
+GO:0042053	regulation of dopamine metabolic process	11	2	0.11	0.00487
+GO:1901020	negative regulation of calcium ion transmembrane transporter activity	11	2	0.11	0.00487
+GO:0007602	phototransduction	71	4	0.69	0.00496
+GO:0009410	response to xenobiotic stimulus	114	5	1.11	0.00498
+GO:0001975	response to amphetamine	12	2	0.12	0.0058
+GO:0071870	cellular response to catecholamine stimulus	38	3	0.37	0.00588
+GO:0055085	transmembrane transport	687	19	6.69	0.0062
+GO:2000300	regulation of synaptic vesicle exocytosis	39	3	0.38	0.00633
+GO:0010522	regulation of calcium ion transport into cytosol	39	3	0.38	0.00633
+GO:0061337	cardiac conduction	40	3	0.39	0.00679
+GO:1901385	regulation of voltage-gated calcium channel activity	13	2	0.13	0.00682
+GO:0001990	regulation of systemic arterial blood pressure by hormone	13	2	0.13	0.00682
+GO:0007618	mating	150	9	1.46	0.00782
+GO:0050908	detection of light stimulus involved in visual perception	14	2	0.14	0.0079
+GO:2001258	negative regulation of cation channel activity	14	2	0.14	0.0079
+GO:0043279	response to alkaloid	82	4	0.8	0.00823
+GO:0019228	neuronal action potential	15	2	0.15	0.00906
+GO:0034765	regulation of ion transmembrane transport	162	7	1.58	0.00923

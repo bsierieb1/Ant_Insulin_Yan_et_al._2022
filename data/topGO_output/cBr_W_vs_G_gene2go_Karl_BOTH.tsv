@@ -1,0 +1,52 @@
+GO.ID	Term	Annotated	Significant	Expected	elimFisher
+GO:0046680	response to DDT	24	5	0.3	9.2e-06
+GO:0046693	sperm storage	17	4	0.21	4.6e-05
+GO:0040040	thermosensory behavior	20	4	0.25	9.1e-05
+GO:0007613	memory	136	8	1.68	0.00026
+GO:0015766	disaccharide transport	27	4	0.33	0.00031
+GO:0045475	locomotor rhythm	58	5	0.72	0.00071
+GO:0008217	regulation of blood pressure	61	5	0.75	9e-04
+GO:0008355	olfactory learning	38	4	0.47	0.00117
+GO:0055085	transmembrane transport	687	20	8.48	0.00119
+GO:0031000	response to caffeine	39	4	0.48	0.00129
+GO:0060084	synaptic transmission involved in micturition	5	2	0.06	0.00147
+GO:0014056	regulation of acetylcholine secretion, neurotransmission	5	2	0.06	0.00147
+GO:0021764	amygdala development	5	2	0.06	0.00147
+GO:0048712	negative regulation of astrocyte differentiation	5	2	0.06	0.00147
+GO:0071407	cellular response to organic cyclic compound	264	10	3.26	0.00152
+GO:0014070	response to organic cyclic compound	458	22	5.65	0.00174
+GO:0048252	lauric acid metabolic process	20	3	0.25	0.00179
+GO:0009410	response to xenobiotic stimulus	114	8	1.41	0.00194
+GO:0007171	activation of transmembrane receptor protein tyrosine kinase activity	6	2	0.07	0.00219
+GO:0046701	insecticide catabolic process	6	2	0.07	0.00219
+GO:0007043	cell-cell junction assembly	110	6	1.36	0.00233
+GO:0060291	long-term synaptic potentiation	22	3	0.27	0.00237
+GO:0014821	phasic smooth muscle contraction	7	2	0.09	0.00304
+GO:0014002	astrocyte development	7	2	0.09	0.00304
+GO:0002118	aggressive behavior	24	3	0.3	0.00306
+GO:0015872	dopamine transport	25	3	0.31	0.00345
+GO:0048639	positive regulation of developmental growth	161	7	1.99	0.00369
+GO:0046689	response to mercury ion	8	2	0.1	0.00402
+GO:0035095	behavioral response to nicotine	8	2	0.1	0.00402
+GO:0035041	sperm chromatin decondensation	8	2	0.1	0.00402
+GO:0048190	wing disc dorsal/ventral pattern formation	53	4	0.65	0.00404
+GO:1905144	response to acetylcholine	9	2	0.11	0.00513
+GO:0008344	adult locomotory behavior	131	6	1.62	0.00553
+GO:0048813	dendrite morphogenesis	221	8	2.73	0.0059
+GO:0007472	wing disc morphogenesis	272	9	3.36	0.00634
+GO:0046929	negative regulation of neurotransmitter secretion	10	2	0.12	0.00637
+GO:0035220	wing disc development	414	16	5.11	0.0068
+GO:0007632	visual behavior	63	4	0.78	0.00748
+GO:0009584	detection of visible light	63	4	0.78	0.00748
+GO:0042053	regulation of dopamine metabolic process	11	2	0.14	0.00772
+GO:1901020	negative regulation of calcium ion transmembrane transporter activity	11	2	0.14	0.00772
+GO:0042682	regulation of compound eye cone cell fate specification	11	2	0.14	0.00772
+GO:1901699	cellular response to nitrogen compound	285	9	3.52	0.00851
+GO:0042391	regulation of membrane potential	189	7	2.33	0.00874
+GO:0030431	sleep	66	4	0.81	0.0088
+GO:0035249	synaptic transmission, glutamatergic	35	3	0.43	0.00898
+GO:0048749	compound eye development	357	12	4.41	0.00909
+GO:0016486	peptide hormone processing	12	2	0.15	0.00919
+GO:0001975	response to amphetamine	12	2	0.15	0.00919
+GO:0002227	innate immune response in mucosa	12	2	0.15	0.00919
+GO:0008016	regulation of heart contraction	105	5	1.3	0.00949

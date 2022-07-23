@@ -1,0 +1,43 @@
+GO.ID	Term	Annotated	Significant	Expected	elimFisher
+GO:0006723	cuticle hydrocarbon biosynthetic process	69	14	0.6	4.5e-16
+GO:0030223	neutrophil differentiation	36	11	0.31	5.3e-15
+GO:0008611	ether lipid biosynthetic process	53	12	0.46	1.6e-14
+GO:0090557	establishment of endothelial intestinal barrier	41	11	0.36	2.7e-14
+GO:0071329	cellular response to sucrose stimulus	43	11	0.37	4.8e-14
+GO:0030224	monocyte differentiation	44	11	0.38	6.4e-14
+GO:1902321	methyl-branched fatty acid biosynthetic process	34	10	0.3	1.5e-13
+GO:0071353	cellular response to interleukin-4	57	11	0.5	1.4e-12
+GO:0030879	mammary gland development	108	13	0.94	6.3e-12
+GO:0019432	triglyceride biosynthetic process	54	10	0.47	2.4e-11
+GO:0005977	glycogen metabolic process	83	10	0.72	2e-09
+GO:0046949	fatty-acyl-CoA biosynthetic process	59	8	0.51	3.6e-08
+GO:0009744	response to sucrose	70	17	0.61	3.7e-08
+GO:0006637	acyl-CoA metabolic process	142	16	1.24	6.1e-07
+GO:0042811	pheromone biosynthetic process	20	5	0.17	6.2e-07
+GO:0045540	regulation of cholesterol biosynthetic process	57	6	0.5	9.2e-06
+GO:0050872	white fat cell differentiation	22	4	0.19	3.5e-05
+GO:0045572	positive regulation of imaginal disc growth	24	4	0.21	5e-05
+GO:0050873	brown fat cell differentiation	25	4	0.22	5.9e-05
+GO:0048047	mating behavior, sex discrimination	25	4	0.22	5.9e-05
+GO:0010873	positive regulation of cholesterol esterification	13	3	0.11	0.00017
+GO:1903966	monounsaturated fatty acid biosynthetic process	14	3	0.12	0.00022
+GO:1903699	tarsal gland development	15	3	0.13	0.00027
+GO:0033561	regulation of water loss via skin	16	3	0.14	0.00033
+GO:0120162	positive regulation of cold-induced thermogenesis	42	4	0.37	0.00046
+GO:0045793	positive regulation of cell size	45	4	0.39	0.00061
+GO:0070328	triglyceride homeostasis	46	4	0.4	0.00066
+GO:0019367	fatty acid elongation, saturated fatty acid	21	3	0.18	0.00076
+GO:0040018	positive regulation of multicellular organism growth	50	4	0.44	0.00091
+GO:0007619	courtship behavior	90	5	0.78	0.00109
+GO:0060179	male mating behavior	93	5	0.81	0.00126
+GO:0042761	very long-chain fatty acid biosynthetic process	26	3	0.23	0.00143
+GO:0060021	roof of mouth development	66	4	0.58	0.00256
+GO:0006629	lipid metabolic process	918	32	8	0.00318
+GO:0035336	long-chain fatty-acyl-CoA metabolic process	37	3	0.32	0.004
+GO:0030512	negative regulation of transforming growth factor beta receptor signaling pathway	37	3	0.32	0.004
+GO:0006508	proteolysis	904	16	7.88	0.00432
+GO:0042593	glucose homeostasis	133	5	1.16	0.00596
+GO:0006641	triglyceride metabolic process	103	13	0.9	0.00609
+GO:0050830	defense response to Gram-positive bacterium	43	3	0.37	0.00612
+GO:0061640	cytoskeleton-dependent cytokinesis	134	5	1.17	0.00615
+GO:0006633	fatty acid biosynthetic process	118	7	1.03	0.00735

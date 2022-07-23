@@ -1,0 +1,155 @@
+GO.ID	Term	Annotated	Significant	Expected	elimFisher
+GO:0009987	cellular process	10685	2260	2078.72	2.2e-29
+GO:0000184	nuclear-transcribed mRNA catabolic process, nonsense-mediated decay	76	42	14.79	4.1e-12
+GO:0043170	macromolecule metabolic process	4351	1155	846.47	1.3e-11
+GO:0008152	metabolic process	7209	1688	1402.48	5.3e-09
+GO:0000462	maturation of SSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	14	11	2.72	3e-06
+GO:0032268	regulation of cellular protein metabolic process	1213	316	235.98	9.2e-06
+GO:0010501	RNA secondary structure unwinding	28	16	5.45	1.1e-05
+GO:0006418	tRNA aminoacylation for protein translation	31	17	6.03	1.2e-05
+GO:0010216	maintenance of DNA methylation	11	9	2.14	1.5e-05
+GO:1902969	mitotic DNA replication	18	12	3.5	1.6e-05
+GO:0034644	cellular response to UV	73	30	14.2	1.7e-05
+GO:0006333	chromatin assembly or disassembly	50	23	9.73	1.8e-05
+GO:0006312	mitotic recombination	16	11	3.11	2.4e-05
+GO:1901796	regulation of signal transduction by p53 class mediator	78	34	15.17	2.7e-05
+GO:0090329	regulation of DNA-dependent DNA replication	27	15	5.25	3.3e-05
+GO:0009555	pollen development	37	18	7.2	5.9e-05
+GO:0000463	maturation of LSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	8	7	1.56	7e-05
+GO:0044818	mitotic G2/M transition checkpoint	8	7	1.56	7e-05
+GO:0006283	transcription-coupled nucleotide-excision repair	20	12	3.89	7.5e-05
+GO:0034728	nucleosome organization	44	20	8.56	7.8e-05
+GO:0006364	rRNA processing	59	41	11.48	8.7e-05
+GO:0044774	mitotic DNA integrity checkpoint signaling	23	13	4.47	8.9e-05
+GO:0007131	reciprocal meiotic recombination	29	15	5.64	1e-04
+GO:0051276	chromosome organization	409	153	79.57	0.00011
+GO:0006271	DNA strand elongation involved in DNA replication	13	9	2.53	0.00013
+GO:0006289	nucleotide-excision repair	49	29	9.53	0.00014
+GO:0006886	intracellular protein transport	557	151	108.36	0.00016
+GO:0000398	mRNA splicing, via spliceosome	107	37	20.82	0.00016
+GO:0006626	protein targeting to mitochondrion	37	17	7.2	0.00023
+GO:0010569	regulation of double-strand break repair via homologous recombination	19	11	3.7	0.00024
+GO:0006284	base-excision repair	9	7	1.75	0.00026
+GO:0006397	mRNA processing	158	58	30.74	0.00026
+GO:0090305	nucleic acid phosphodiester bond hydrolysis	35	19	6.81	0.00027
+GO:0044417	translocation of molecules into host	5	5	0.97	0.00028
+GO:0070651	nonfunctional rRNA decay	7	6	1.36	0.00031
+GO:0045910	negative regulation of DNA recombination	7	6	1.36	0.00031
+GO:0046686	response to cadmium ion	62	24	12.06	0.00034
+GO:0007040	lysosome organization	35	16	6.81	0.00037
+GO:0032212	positive regulation of telomere maintenance via telomerase	17	10	3.31	0.00039
+GO:0071364	cellular response to epidermal growth factor stimulus	32	15	6.23	4e-04
+GO:0000028	ribosomal small subunit assembly	12	8	2.33	0.00047
+GO:2000780	negative regulation of double-strand break repair	12	8	2.33	0.00047
+GO:0071480	cellular response to gamma radiation	15	9	2.92	0.00063
+GO:0006293	nucleotide-excision repair, preincision complex stabilization	10	7	1.95	0.00072
+GO:0002312	B cell activation involved in immune response	10	7	1.95	0.00072
+GO:1904356	regulation of telomere maintenance via telomere lengthening	38	21	7.39	0.00073
+GO:0022618	ribonucleoprotein complex assembly	92	36	17.9	0.00074
+GO:0051984	positive regulation of chromosome segregation	13	8	2.53	0.00102
+GO:0071028	nuclear mRNA surveillance	13	10	2.53	0.00104
+GO:0000076	DNA replication checkpoint signaling	8	6	1.56	0.00105
+GO:0031053	primary miRNA processing	8	6	1.56	0.00105
+GO:0016078	tRNA catabolic process	8	6	1.56	0.00105
+GO:0008340	determination of adult lifespan	59	22	11.48	0.00106
+GO:0000122	negative regulation of transcription by RNA polymerase II	97	32	18.87	0.00108
+GO:0000291	nuclear-transcribed mRNA catabolic process, exonucleolytic	19	10	3.7	0.00125
+GO:2001242	regulation of intrinsic apoptotic signaling pathway	49	19	9.53	0.00133
+GO:0031123	RNA 3'-end processing	49	19	9.53	0.00133
+GO:0000470	maturation of LSU-rRNA	12	11	2.33	0.00142
+GO:0000460	maturation of 5.8S rRNA	11	9	2.14	0.00142
+GO:0065004	protein-DNA complex assembly	53	20	10.31	0.00149
+GO:0008156	negative regulation of DNA replication	11	7	2.14	0.00165
+GO:0018205	peptidyl-lysine modification	140	42	27.24	0.00175
+GO:0032456	endocytic recycling	50	19	9.73	0.00176
+GO:2001021	negative regulation of response to DNA damage stimulus	26	16	5.06	0.00194
+GO:0031297	replication fork processing	14	8	2.72	0.00198
+GO:0000077	DNA damage checkpoint signaling	20	10	3.89	0.00207
+GO:0031453	positive regulation of heterochromatin assembly	17	9	3.31	0.00209
+GO:0006303	double-strand break repair via nonhomologous end joining	17	9	3.31	0.00209
+GO:2001020	regulation of response to DNA damage stimulus	76	38	14.79	0.00234
+GO:0061077	chaperone-mediated protein folding	30	13	5.84	0.00238
+GO:0010587	miRNA catabolic process	9	6	1.75	0.00263
+GO:0010467	gene expression	1783	522	346.87	0.00305
+GO:0006457	protein folding	81	34	15.76	0.00309
+GO:1902275	regulation of chromatin organization	38	19	7.39	0.00321
+GO:0010918	positive regulation of mitochondrial membrane potential	12	7	2.33	0.00329
+GO:0009644	response to high light intensity	12	7	2.33	0.00329
+GO:0070301	cellular response to hydrogen peroxide	38	15	7.39	0.00341
+GO:1903332	regulation of protein folding	15	8	2.92	0.00352
+GO:0016570	histone modification	158	45	30.74	0.00376
+GO:0009451	RNA modification	49	21	9.53	0.00378
+GO:0007062	sister chromatid cohesion	28	12	5.45	0.00388
+GO:0000466	maturation of 5.8S rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	7	5	1.36	0.0041
+GO:0000469	cleavage involved in rRNA processing	7	5	1.36	0.0041
+GO:0002098	tRNA wobble uridine modification	7	5	1.36	0.0041
+GO:0071215	cellular response to abscisic acid stimulus	7	5	1.36	0.0041
+GO:0000732	strand displacement	7	5	1.36	0.0041
+GO:0061734	parkin-mediated stimulation of mitophagy in response to mitochondrial depolarization	7	5	1.36	0.0041
+GO:0010224	response to UV-B	25	11	4.86	0.00441
+GO:0032392	DNA geometric change	22	10	4.28	0.00496
+GO:0010165	response to X-ray	22	10	4.28	0.00496
+GO:0140014	mitotic nuclear division	120	39	23.35	0.005
+GO:0034605	cellular response to heat	43	16	8.37	0.00504
+GO:0071479	cellular response to ionizing radiation	44	21	8.56	0.00534
+GO:0000724	double-strand break repair via homologous recombination	38	20	7.39	0.00535
+GO:0006446	regulation of translational initiation	47	17	9.14	0.00544
+GO:0006406	mRNA export from nucleus	10	6	1.95	0.0055
+GO:0090063	positive regulation of microtubule nucleation	10	6	1.95	0.0055
+GO:0046602	regulation of mitotic centrosome separation	10	6	1.95	0.0055
+GO:0006417	regulation of translation	151	52	29.38	0.00563
+GO:0008380	RNA splicing	120	44	23.35	0.00571
+GO:0061014	positive regulation of mRNA catabolic process	51	18	9.92	0.00578
+GO:0019985	translesion synthesis	16	8	3.11	0.00584
+GO:0042274	ribosomal small subunit biogenesis	29	21	5.64	0.00592
+GO:0006261	DNA-dependent DNA replication	77	40	14.98	0.00593
+GO:0043487	regulation of RNA stability	97	32	18.87	0.00594
+GO:0000054	ribosomal subunit export from nucleus	13	7	2.53	0.00594
+GO:0051095	regulation of helicase activity	5	4	0.97	0.00604
+GO:0036297	interstrand cross-link repair	5	4	0.97	0.00604
+GO:0071046	nuclear polyadenylation-dependent ncRNA catabolic process	5	4	0.97	0.00604
+GO:0071033	nuclear retention of pre-mRNA at the site of transcription	5	4	0.97	0.00604
+GO:0035822	gene conversion	5	4	0.97	0.00604
+GO:0045002	double-strand break repair via single-strand annealing	5	4	0.97	0.00604
+GO:0006265	DNA topological change	5	4	0.97	0.00604
+GO:0018401	peptidyl-proline hydroxylation to 4-hydroxy-L-proline	5	4	0.97	0.00604
+GO:1903564	regulation of protein localization to cilium	5	4	0.97	0.00604
+GO:0032079	positive regulation of endodeoxyribonuclease activity	5	4	0.97	0.00604
+GO:0009615	response to virus	55	19	10.7	0.00605
+GO:0043414	macromolecule methylation	103	31	20.04	0.00622
+GO:0008356	asymmetric cell division	26	11	5.06	0.00632
+GO:0010564	regulation of cell cycle process	319	95	62.06	0.00637
+GO:2001251	negative regulation of chromosome organization	33	13	6.42	0.00637
+GO:0000045	autophagosome assembly	48	17	9.34	0.00693
+GO:0006511	ubiquitin-dependent protein catabolic process	189	51	36.77	0.00697
+GO:0051303	establishment of chromosome localization	23	10	4.47	0.00726
+GO:0008630	intrinsic apoptotic signaling pathway in response to DNA damage	11	8	2.14	0.00732
+GO:0048366	leaf development	30	12	5.84	0.00751
+GO:0032543	mitochondrial translation	30	12	5.84	0.00751
+GO:0051851	modulation by host of symbiont process	30	12	5.84	0.00751
+GO:0019083	viral transcription	30	12	5.84	0.00751
+GO:0043488	regulation of mRNA stability	92	28	17.9	0.00765
+GO:0006338	chromatin remodeling	64	29	12.45	0.00798
+GO:0006998	nuclear envelope organization	20	9	3.89	0.00824
+GO:2000278	regulation of DNA biosynthetic process	51	23	9.92	0.00831
+GO:0002181	cytoplasmic translation	45	16	8.75	0.00832
+GO:0006401	RNA catabolic process	195	87	37.94	0.00841
+GO:0006402	mRNA catabolic process	179	77	34.82	0.00853
+GO:0034660	ncRNA metabolic process	185	102	35.99	0.00865
+GO:0045132	meiotic chromosome segregation	27	11	5.25	0.00882
+GO:0007004	telomere maintenance via telomerase	34	18	6.61	0.00902
+GO:0048199	vesicle targeting, to, from or within Golgi	17	8	3.31	0.00918
+GO:0006368	transcription elongation from RNA polymerase II promoter	17	8	3.31	0.00918
+GO:0098781	ncRNA transcription	17	8	3.31	0.00918
+GO:1901798	positive regulation of signal transduction by p53 class mediator	17	8	3.31	0.00918
+GO:0016447	somatic recombination of immunoglobulin gene segments	8	5	1.56	0.00919
+GO:1901977	negative regulation of cell cycle checkpoint	8	5	1.56	0.00919
+GO:0071287	cellular response to manganese ion	8	5	1.56	0.00919
+GO:0002381	immunoglobulin production involved in immunoglobulin-mediated immune response	8	5	1.56	0.00919
+GO:0002251	organ or tissue specific immune response	8	5	1.56	0.00919
+GO:0042771	intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator	8	5	1.56	0.00919
+GO:1901142	insulin metabolic process	8	5	1.56	0.00919
+GO:0051225	spindle assembly	38	14	7.39	0.00933
+GO:0017148	negative regulation of translation	73	23	14.2	0.00952
+GO:0006325	chromatin organization	215	77	41.83	0.00997
+GO:1903051	negative regulation of proteolysis involved in cellular protein catabolic process	42	15	8.17	0.00999

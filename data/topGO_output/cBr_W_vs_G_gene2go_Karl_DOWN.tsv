@@ -1,0 +1,12 @@
+GO.ID	Term	Annotated	Significant	Expected	elimFisher
+GO:0046680	response to DDT	24	3	0.06	3e-05
+GO:0017143	insecticide metabolic process	26	3	0.07	3.9e-05
+GO:0048252	lauric acid metabolic process	20	2	0.05	0.0012
+GO:0040040	thermosensory behavior	20	2	0.05	0.0012
+GO:0010430	fatty acid omega-oxidation	21	2	0.05	0.0013
+GO:0002118	aggressive behavior	24	2	0.06	0.0017
+GO:0050829	defense response to Gram-negative bacterium	36	2	0.09	0.0039
+GO:0051384	response to glucocorticoid	38	2	0.1	0.0043
+GO:0031000	response to caffeine	39	2	0.1	0.0045
+GO:0006582	melanin metabolic process	56	2	0.15	0.0092
+GO:0046683	response to organophosphorus	57	2	0.15	0.0095

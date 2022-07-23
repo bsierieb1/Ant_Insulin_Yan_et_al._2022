@@ -1,0 +1,146 @@
+GO.ID	Term	Annotated	Significant	Expected	elimFisher
+GO:0006364	rRNA processing	182	110	38.86	1.4e-13
+GO:0000398	mRNA splicing, via spliceosome	266	105	56.8	7.3e-12
+GO:0042254	ribosome biogenesis	370	192	79	1.7e-10
+GO:0000462	maturation of SSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	53	35	11.32	5.5e-09
+GO:0002181	cytoplasmic translation	169	69	36.08	6e-09
+GO:0000184	nuclear-transcribed mRNA catabolic process, nonsense-mediated decay	97	45	20.71	2.9e-08
+GO:0006284	base-excision repair	30	21	6.41	9e-07
+GO:0006457	protein folding	125	50	26.69	1.5e-06
+GO:0000463	maturation of LSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	22	15	4.7	3e-06
+GO:0022618	ribonucleoprotein complex assembly	182	74	38.86	4.3e-06
+GO:0006418	tRNA aminoacylation for protein translation	39	24	8.33	5.9e-06
+GO:0006368	transcription elongation from RNA polymerase II promoter	86	40	18.36	6.5e-06
+GO:0006397	mRNA processing	362	147	77.29	9e-06
+GO:0036297	interstrand cross-link repair	19	13	4.06	1.4e-05
+GO:0016446	somatic hypermutation of immunoglobulin genes	7	7	1.49	2e-05
+GO:0006283	transcription-coupled nucleotide-excision repair	53	25	11.32	2.5e-05
+GO:0006298	mismatch repair	25	15	5.34	3e-05
+GO:0016973	poly(A)+ mRNA export from nucleus	11	9	2.35	3.3e-05
+GO:0006406	mRNA export from nucleus	57	33	12.17	3.4e-05
+GO:0033260	nuclear DNA replication	30	16	6.41	0.00012
+GO:0030422	production of siRNA involved in RNA interference	10	8	2.14	0.00013
+GO:0000480	endonucleolytic cleavage in 5'-ETS of tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	8	7	1.71	0.00013
+GO:0000466	maturation of 5.8S rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	33	21	7.05	0.00013
+GO:0000724	double-strand break repair via homologous recombination	75	34	16.01	0.00015
+GO:0006296	nucleotide-excision repair, DNA incision, 5'-to lesion	25	14	5.34	0.00016
+GO:0001522	pseudouridine synthesis	15	10	3.2	2e-04
+GO:0034660	ncRNA metabolic process	374	204	79.86	0.00026
+GO:2001252	positive regulation of chromosome organization	49	25	10.46	0.00026
+GO:0000723	telomere maintenance	88	43	18.79	0.00028
+GO:0000054	ribosomal subunit export from nucleus	18	11	3.84	0.00029
+GO:0000070	mitotic sister chromatid segregation	126	48	26.9	0.00031
+GO:0008380	RNA splicing	320	135	68.33	0.00032
+GO:0008033	tRNA processing	93	46	19.86	0.00033
+GO:0006413	translational initiation	150	54	32.03	0.00037
+GO:0045910	negative regulation of DNA recombination	21	15	4.48	0.00042
+GO:0000447	endonucleolytic cleavage in ITS1 to separate SSU-rRNA from 5.8S rRNA and LSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	16	10	3.42	0.00043
+GO:0045950	negative regulation of mitotic recombination	5	5	1.07	0.00044
+GO:2000002	negative regulation of DNA damage checkpoint	5	5	1.07	0.00044
+GO:0043570	maintenance of DNA repeat elements	5	5	1.07	0.00044
+GO:0010216	maintenance of DNA methylation	5	5	1.07	0.00044
+GO:0006370	7-methylguanosine mRNA capping	30	15	6.41	0.00048
+GO:0010793	regulation of mRNA export from nucleus	7	6	1.49	0.00054
+GO:0009411	response to UV	90	33	19.22	6e-04
+GO:0031123	RNA 3'-end processing	96	39	20.5	0.00061
+GO:0006293	nucleotide-excision repair, preincision complex stabilization	14	9	2.99	0.00063
+GO:0000959	mitochondrial RNA metabolic process	28	17	5.98	0.00063
+GO:0007062	sister chromatid cohesion	43	19	9.18	0.00064
+GO:0032210	regulation of telomere maintenance via telomerase	31	15	6.62	0.00074
+GO:0042273	ribosomal large subunit biogenesis	66	37	14.09	0.00078
+GO:0016071	mRNA metabolic process	547	222	116.79	0.00083
+GO:0001824	blastocyst development	47	20	10.04	0.00084
+GO:0070126	mitochondrial translational termination	38	17	8.11	0.00104
+GO:0006289	nucleotide-excision repair	85	41	18.15	0.00105
+GO:0006360	transcription by RNA polymerase I	51	21	10.89	0.00106
+GO:0140053	mitochondrial gene expression	128	53	27.33	0.00108
+GO:0048193	Golgi vesicle transport	218	66	46.55	0.00111
+GO:0006400	tRNA modification	62	28	13.24	0.00122
+GO:0006352	DNA-templated transcription, initiation	146	47	31.17	0.0014
+GO:2000573	positive regulation of DNA biosynthetic process	36	16	7.69	0.00158
+GO:0001510	RNA methylation	57	29	12.17	0.00158
+GO:0006417	regulation of translation	323	98	68.97	0.00162
+GO:0000027	ribosomal large subunit assembly	33	15	7.05	0.00166
+GO:0032508	DNA duplex unwinding	30	14	6.41	0.00173
+GO:0006412	translation	549	209	117.22	0.00174
+GO:0071824	protein-DNA complex subunit organization	156	54	33.31	0.00175
+GO:0071044	histone mRNA catabolic process	8	6	1.71	0.00176
+GO:0032258	cytoplasm to vacuole transport by the Cvt pathway	8	6	1.71	0.00176
+GO:0032728	positive regulation of interferon-beta production	8	6	1.71	0.00176
+GO:0000472	endonucleolytic cleavage to generate mature 5'-end of SSU-rRNA from (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	8	6	1.71	0.00176
+GO:0006614	SRP-dependent cotranslational protein targeting to membrane	70	26	14.95	0.00176
+GO:0006396	RNA processing	707	328	150.96	0.00186
+GO:0042795	snRNA transcription by RNA polymerase II	53	21	11.32	0.00189
+GO:0007095	mitotic G2 DNA damage checkpoint signaling	13	8	2.78	0.00194
+GO:0051984	positive regulation of chromosome segregation	13	8	2.78	0.00194
+GO:0006310	DNA recombination	219	89	46.76	0.00196
+GO:0071318	cellular response to ATP	6	5	1.28	0.00218
+GO:1904872	regulation of telomerase RNA localization to Cajal body	6	5	1.28	0.00218
+GO:0070127	tRNA aminoacylation for mitochondrial protein translation	6	5	1.28	0.00218
+GO:0033314	mitotic DNA replication checkpoint signaling	6	5	1.28	0.00218
+GO:0010608	posttranscriptional regulation of gene expression	428	138	91.39	0.00222
+GO:0051225	spindle assembly	100	34	21.35	0.00225
+GO:0034605	cellular response to heat	64	24	13.67	0.00225
+GO:0070911	global genome nucleotide-excision repair	16	9	3.42	0.00238
+GO:0016075	rRNA catabolic process	16	9	3.42	0.00238
+GO:0000731	DNA synthesis involved in DNA repair	34	15	7.26	0.0024
+GO:0007041	lysosomal transport	61	23	13.02	0.00253
+GO:0031167	rRNA methylation	24	14	5.12	0.0026
+GO:0044267	cellular protein metabolic process	2520	665	538.06	0.00275
+GO:0006353	DNA-templated transcription, termination	65	24	13.88	0.00286
+GO:0008053	mitochondrial fusion	11	7	2.35	0.00292
+GO:0034502	protein localization to chromosome	55	24	11.74	0.00337
+GO:0006919	activation of cysteine-type endopeptidase activity involved in apoptotic process	32	14	6.83	0.00365
+GO:2000104	negative regulation of DNA-dependent DNA replication	14	8	2.99	0.00368
+GO:0032784	regulation of DNA-templated transcription, elongation	53	24	11.32	0.00379
+GO:0098781	ncRNA transcription	79	33	16.87	0.00393
+GO:0010569	regulation of double-strand break repair via homologous recombination	17	9	3.63	0.0041
+GO:0002098	tRNA wobble uridine modification	17	9	3.63	0.0041
+GO:0007131	reciprocal meiotic recombination	26	12	5.55	0.00411
+GO:0006270	DNA replication initiation	26	12	5.55	0.00411
+GO:0043967	histone H4 acetylation	56	21	11.96	0.00413
+GO:0006906	vesicle fusion	56	21	11.96	0.00413
+GO:0071103	DNA conformation change	149	52	31.81	0.00415
+GO:1904358	positive regulation of telomere maintenance via telomere lengthening	23	11	4.91	0.00424
+GO:1902275	regulation of chromatin organization	20	10	4.27	0.00426
+GO:0000492	box C/D snoRNP assembly	9	6	1.92	0.00433
+GO:2000105	positive regulation of DNA-dependent DNA replication	9	6	1.92	0.00433
+GO:0006974	cellular response to DNA damage stimulus	598	205	127.68	0.00453
+GO:0051304	chromosome separation	63	26	13.45	0.00455
+GO:1903311	regulation of mRNA metabolic process	206	60	43.98	0.00482
+GO:0042255	ribosome assembly	76	32	16.23	0.00487
+GO:0006401	RNA catabolic process	240	97	51.24	0.00513
+GO:0006338	chromatin remodeling	136	42	29.04	0.00564
+GO:0006378	mRNA polyadenylation	40	16	8.54	0.00569
+GO:0070125	mitochondrial translational elongation	40	16	8.54	0.00569
+GO:0065004	protein-DNA complex assembly	113	36	24.13	0.00577
+GO:0043484	regulation of RNA splicing	102	33	21.78	0.00619
+GO:0032204	regulation of telomere maintenance	47	24	10.04	0.00623
+GO:0000469	cleavage involved in rRNA processing	32	19	6.83	0.00626
+GO:0070676	intralumenal vesicle formation	7	5	1.49	0.00629
+GO:0019673	GDP-mannose metabolic process	7	5	1.49	0.00629
+GO:1903206	negative regulation of hydrogen peroxide-induced cell death	7	5	1.49	0.00629
+GO:0006285	base-excision repair, AP site formation	7	5	1.49	0.00629
+GO:0046784	viral mRNA export from host cell nucleus	7	5	1.49	0.00629
+GO:0032968	positive regulation of transcription elongation from RNA polymerase II promoter	24	11	5.12	0.00634
+GO:0006414	translational elongation	74	30	15.8	0.00676
+GO:1902850	microtubule cytoskeleton organization involved in mitosis	118	37	25.2	0.0069
+GO:0007040	lysosome organization	48	18	10.25	0.00764
+GO:0097193	intrinsic apoptotic signaling pathway	158	47	33.74	0.00773
+GO:0007080	mitotic metaphase plate congression	28	12	5.98	0.00846
+GO:0006998	nuclear envelope organization	28	12	5.98	0.00846
+GO:0030576	Cajal body organization	5	4	1.07	0.0086
+GO:0071033	nuclear retention of pre-mRNA at the site of transcription	5	4	1.07	0.0086
+GO:0000414	regulation of histone H3-K36 methylation	5	4	1.07	0.0086
+GO:1904749	regulation of protein localization to nucleolus	5	4	1.07	0.0086
+GO:0070475	rRNA base methylation	5	4	1.07	0.0086
+GO:1905216	positive regulation of RNA binding	5	4	1.07	0.0086
+GO:0030435	sporulation resulting in formation of a cellular spore	5	4	1.07	0.0086
+GO:0032079	positive regulation of endodeoxyribonuclease activity	5	4	1.07	0.0086
+GO:0006446	regulation of translational initiation	89	29	19	0.00887
+GO:0051307	meiotic chromosome separation	10	6	2.14	0.00888
+GO:1904851	positive regulation of establishment of protein localization to telomere	10	6	2.14	0.00888
+GO:0006388	tRNA splicing, via endonucleolytic cleavage and ligation	10	6	2.14	0.00888
+GO:0090141	positive regulation of mitochondrial fission	10	6	2.14	0.00888
+GO:0000460	maturation of 5.8S rRNA	36	24	7.69	0.00951
+GO:0006383	transcription by RNA polymerase III	49	18	10.46	0.00972

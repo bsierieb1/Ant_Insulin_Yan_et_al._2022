@@ -1,0 +1,32 @@
+GO.ID	Term	Annotated	Significant	Expected	elimFisher
+GO:0046949	fatty-acyl-CoA biosynthetic process	63	13	0.58	1.1e-14
+GO:0032100	positive regulation of appetite	22	8	0.2	1.1e-11
+GO:0030224	monocyte differentiation	29	8	0.27	1.4e-10
+GO:0071353	cellular response to interleukin-4	49	9	0.45	5e-10
+GO:0090557	establishment of endothelial intestinal barrier	29	7	0.27	6e-09
+GO:0002068	glandular epithelial cell development	30	7	0.28	7.7e-09
+GO:0030879	mammary gland development	66	9	0.61	7.9e-09
+GO:1900554	asperfuranone biosynthetic process	8	4	0.07	4.6e-07
+GO:0030223	neutrophil differentiation	15	4	0.14	8.5e-06
+GO:0006636	unsaturated fatty acid biosynthetic process	16	4	0.15	1.1e-05
+GO:0042811	pheromone biosynthetic process	17	4	0.16	1.5e-05
+GO:0097040	phthiocerol biosynthetic process	17	4	0.16	1.5e-05
+GO:0097041	phenolic phthiocerol biosynthetic process	17	4	0.16	1.5e-05
+GO:0008611	ether lipid biosynthetic process	28	4	0.26	0.00012
+GO:0035814	negative regulation of renal sodium excretion	28	4	0.26	0.00012
+GO:1903699	tarsal gland development	14	3	0.13	0.00025
+GO:0031670	cellular response to nutrient	37	4	0.34	0.00035
+GO:1901143	insulin catabolic process	5	2	0.05	0.00082
+GO:0030590	first cell cycle pseudocleavage	5	2	0.05	0.00082
+GO:0070542	response to fatty acid	56	4	0.51	0.00171
+GO:0033068	macrolide biosynthetic process	9	2	0.08	0.00288
+GO:0009926	auxin polar transport	9	2	0.08	0.00288
+GO:0003081	regulation of systemic arterial blood pressure by renin-angiotensin	10	2	0.09	0.00358
+GO:0019748	secondary metabolic process	232	18	2.13	0.00405
+GO:0090330	regulation of platelet aggregation	12	2	0.11	0.00518
+GO:0010813	neuropeptide catabolic process	13	2	0.12	0.00609
+GO:0019885	antigen processing and presentation of endogenous peptide antigen via MHC class I	13	2	0.12	0.00609
+GO:0010345	suberin biosynthetic process	15	2	0.14	0.0081
+GO:0010800	positive regulation of peptidyl-threonine phosphorylation	15	2	0.14	0.0081
+GO:1901658	glycosyl compound catabolic process	15	2	0.14	0.0081
+GO:0019367	fatty acid elongation, saturated fatty acid	15	2	0.14	0.0081

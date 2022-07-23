@@ -1,0 +1,35 @@
+GO.ID	Term	Annotated	Significant	Expected	elimFisher
+GO:0046949	fatty-acyl-CoA biosynthetic process	63	13	0.75	3.8e-13
+GO:0030224	monocyte differentiation	29	8	0.35	1.2e-09
+GO:0032100	positive regulation of appetite	22	7	0.26	4.5e-09
+GO:0071353	cellular response to interleukin-4	49	9	0.59	5.4e-09
+GO:0008611	ether lipid biosynthetic process	28	7	0.34	2.9e-08
+GO:0090557	establishment of endothelial intestinal barrier	29	7	0.35	3.8e-08
+GO:0002068	glandular epithelial cell development	30	7	0.36	5e-08
+GO:0030879	mammary gland development	66	9	0.79	8.2e-08
+GO:0030223	neutrophil differentiation	15	5	0.18	6.3e-07
+GO:0097040	phthiocerol biosynthetic process	17	5	0.2	1.3e-06
+GO:0097041	phenolic phthiocerol biosynthetic process	17	5	0.2	1.3e-06
+GO:1901143	insulin catabolic process	5	3	0.06	1.7e-05
+GO:0006636	unsaturated fatty acid biosynthetic process	16	4	0.19	3.2e-05
+GO:0042811	pheromone biosynthetic process	17	4	0.2	4.2e-05
+GO:0033068	macrolide biosynthetic process	9	3	0.11	0.00013
+GO:0090330	regulation of platelet aggregation	12	3	0.14	0.00034
+GO:1903699	tarsal gland development	14	3	0.17	0.00056
+GO:0019367	fatty acid elongation, saturated fatty acid	15	3	0.18	0.00069
+GO:0031670	cellular response to nutrient	37	4	0.44	0.00096
+GO:0035002	liquid clearance, open tracheal system	17	3	0.2	0.00101
+GO:0030590	first cell cycle pseudocleavage	5	2	0.06	0.00139
+GO:0097089	methyl-branched fatty acid metabolic process	6	2	0.07	0.00207
+GO:0010025	wax biosynthetic process	26	3	0.31	0.00358
+GO:1901163	regulation of trophoblast cell migration	8	2	0.1	0.00381
+GO:1900554	asperfuranone biosynthetic process	8	2	0.1	0.00381
+GO:0009699	phenylpropanoid biosynthetic process	28	3	0.34	0.00443
+GO:0035814	negative regulation of renal sodium excretion	28	3	0.34	0.00443
+GO:0070542	response to fatty acid	56	4	0.67	0.00448
+GO:0052646	alditol phosphate metabolic process	9	2	0.11	0.00486
+GO:0071766	Actinobacterium-type cell wall biogenesis	10	2	0.12	0.00603
+GO:0072376	protein activation cascade	10	2	0.12	0.00603
+GO:0035008	positive regulation of melanization defense response	11	2	0.13	0.00731
+GO:0050908	detection of light stimulus involved in visual perception	11	2	0.13	0.00731
+GO:0033198	response to ATP	12	2	0.14	0.0087

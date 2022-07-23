@@ -1,0 +1,49 @@
+GO.ID	Term	Annotated	Significant	Expected	elimFisher
+GO:0006508	proteolysis	904	141	94.87	8.5e-06
+GO:0042178	xenobiotic catabolic process	17	8	1.78	0.00015
+GO:0007100	mitotic centrosome separation	14	7	1.47	0.00024
+GO:0006616	SRP-dependent cotranslational protein targeting to membrane, translocation	8	5	0.84	0.00054
+GO:0042811	pheromone biosynthetic process	20	8	2.1	0.00057
+GO:0006550	isoleucine catabolic process	30	10	3.15	0.00065
+GO:0006574	valine catabolic process	30	10	3.15	0.00065
+GO:0006552	leucine catabolic process	31	10	3.25	0.00087
+GO:0010025	wax biosynthetic process	17	7	1.78	0.00103
+GO:0050830	defense response to Gram-positive bacterium	43	12	4.51	0.00117
+GO:0008610	lipid biosynthetic process	486	72	51	0.0014
+GO:0090307	mitotic spindle assembly	47	12	4.93	0.00269
+GO:0019080	viral gene expression	30	9	3.15	0.00277
+GO:0006066	alcohol metabolic process	237	39	24.87	0.00285
+GO:0120253	hydrocarbon catabolic process	15	6	1.57	0.00286
+GO:0030970	retrograde protein transport, ER to cytosol	20	7	2.1	0.00311
+GO:0070682	proteasome regulatory particle assembly	7	4	0.73	0.00325
+GO:0033045	regulation of sister chromatid segregation	50	15	5.25	0.00412
+GO:0042537	benzene-containing compound metabolic process	32	9	3.36	0.00448
+GO:0030433	ubiquitin-dependent ERAD pathway	44	11	4.62	0.00475
+GO:0042311	vasodilation	12	5	1.26	0.00531
+GO:0008152	metabolic process	6123	719	642.59	0.0054
+GO:0046689	response to mercury ion	8	4	0.84	0.00597
+GO:0045899	positive regulation of RNA polymerase II transcription preinitiation complex assembly	8	4	0.84	0.00597
+GO:0035337	fatty-acyl-CoA metabolic process	78	16	8.19	0.00629
+GO:0061077	chaperone-mediated protein folding	34	9	3.57	0.00693
+GO:0006778	porphyrin-containing compound metabolic process	34	9	3.57	0.00693
+GO:0007526	larval somatic muscle development	40	10	4.2	0.00698
+GO:0006323	DNA packaging	114	21	11.96	0.00715
+GO:0000398	mRNA splicing, via spliceosome	266	41	27.92	0.00732
+GO:0019482	beta-alanine metabolic process	23	7	2.41	0.00744
+GO:0046394	carboxylic acid biosynthetic process	251	39	26.34	0.00768
+GO:0010873	positive regulation of cholesterol esterification	13	5	1.36	0.00789
+GO:0019497	hexachlorocyclohexane metabolic process	13	5	1.36	0.00789
+GO:0120256	olefinic compound catabolic process	13	5	1.36	0.00789
+GO:0006547	histidine metabolic process	13	5	1.36	0.00789
+GO:0048002	antigen processing and presentation of peptide antigen	47	11	4.93	0.00807
+GO:1901565	organonitrogen compound catabolic process	752	112	78.92	0.00814
+GO:0007094	mitotic spindle assembly checkpoint signaling	29	8	3.04	0.00822
+GO:0050818	regulation of coagulation	24	7	2.52	0.00957
+GO:0010872	regulation of cholesterol esterification	18	8	1.89	0.00968
+GO:0051012	microtubule sliding	5	3	0.52	0.00979
+GO:0009125	nucleoside monophosphate catabolic process	5	3	0.52	0.00979
+GO:0090330	regulation of platelet aggregation	5	3	0.52	0.00979
+GO:0045932	negative regulation of muscle contraction	9	4	0.94	0.00985
+GO:0071712	ER-associated misfolded protein catabolic process	9	4	0.94	0.00985
+GO:0055091	phospholipid homeostasis	9	4	0.94	0.00985
+GO:0120162	positive regulation of cold-induced thermogenesis	42	10	4.41	0.00999

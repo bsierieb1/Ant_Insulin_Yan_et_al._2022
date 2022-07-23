@@ -1,0 +1,50 @@
+GO.ID	Term	Annotated	Significant	Expected	elimFisher
+GO:0008611	ether lipid biosynthetic process	53	12	0.56	1.9e-13
+GO:0006723	cuticle hydrocarbon biosynthetic process	69	13	0.73	2.3e-13
+GO:0071329	cellular response to sucrose stimulus	43	10	0.46	1.6e-11
+GO:1902321	methyl-branched fatty acid biosynthetic process	34	9	0.36	5e-11
+GO:0030223	neutrophil differentiation	36	9	0.38	8.8e-11
+GO:0019432	triglyceride biosynthetic process	54	10	0.57	1.9e-10
+GO:0090557	establishment of endothelial intestinal barrier	41	9	0.44	3.1e-10
+GO:0030224	monocyte differentiation	44	9	0.47	6.2e-10
+GO:0071353	cellular response to interleukin-4	57	9	0.61	7e-09
+GO:0005977	glycogen metabolic process	83	10	0.88	1.5e-08
+GO:0009744	response to sucrose	70	16	0.74	1.6e-07
+GO:0030879	mammary gland development	108	10	1.15	1.9e-07
+GO:0006637	acyl-CoA metabolic process	142	16	1.51	1.3e-06
+GO:0042811	pheromone biosynthetic process	20	5	0.21	1.7e-06
+GO:0046949	fatty-acyl-CoA biosynthetic process	59	8	0.63	5.2e-05
+GO:0019367	fatty acid elongation, saturated fatty acid	21	4	0.22	6.3e-05
+GO:0050872	white fat cell differentiation	22	4	0.23	7.6e-05
+GO:0045572	positive regulation of imaginal disc growth	24	4	0.26	0.00011
+GO:0048047	mating behavior, sex discrimination	25	4	0.27	0.00013
+GO:0050873	brown fat cell differentiation	25	4	0.27	0.00013
+GO:0042761	very long-chain fatty acid biosynthetic process	26	4	0.28	0.00015
+GO:0006771	riboflavin metabolic process	12	3	0.13	0.00024
+GO:0010873	positive regulation of cholesterol esterification	13	3	0.14	0.00031
+GO:0019497	hexachlorocyclohexane metabolic process	13	3	0.14	0.00031
+GO:0045540	regulation of cholesterol biosynthetic process	57	5	0.61	0.00033
+GO:0007619	courtship behavior	90	6	0.96	0.00038
+GO:1903966	monounsaturated fatty acid biosynthetic process	14	3	0.15	0.00039
+GO:0060179	male mating behavior	93	6	0.99	0.00045
+GO:1903699	tarsal gland development	15	3	0.16	0.00048
+GO:0033561	regulation of water loss via skin	16	3	0.17	0.00059
+GO:0120162	positive regulation of cold-induced thermogenesis	42	4	0.45	0.00099
+GO:0035338	long-chain fatty-acyl-CoA biosynthetic process	19	3	0.2	0.001
+GO:0034626	fatty acid elongation, polyunsaturated fatty acid	20	3	0.21	0.00117
+GO:0045793	positive regulation of cell size	45	4	0.48	0.00128
+GO:0070328	triglyceride homeostasis	46	4	0.49	0.00139
+GO:0010595	positive regulation of endothelial cell migration	49	4	0.52	0.00177
+GO:0040018	positive regulation of multicellular organism growth	50	4	0.53	0.00191
+GO:0051919	positive regulation of fibrinolysis	8	2	0.09	0.00301
+GO:0071677	positive regulation of mononuclear cell migration	9	2	0.1	0.00384
+GO:0006508	proteolysis	904	20	9.62	0.00453
+GO:0031639	plasminogen activation	10	2	0.11	0.00477
+GO:0006030	chitin metabolic process	65	4	0.69	0.00496
+GO:1901568	fatty acid derivative metabolic process	95	11	1.01	0.00514
+GO:0060021	roof of mouth development	66	4	0.7	0.00524
+GO:0050921	positive regulation of chemotaxis	34	3	0.36	0.0055
+GO:0010463	mesenchymal cell proliferation	36	3	0.38	0.00646
+GO:0042594	response to starvation	165	6	1.76	0.00816
+GO:0010811	positive regulation of cell-substrate adhesion	41	3	0.44	0.00929
+GO:0030537	larval behavior	42	3	0.45	0.00993

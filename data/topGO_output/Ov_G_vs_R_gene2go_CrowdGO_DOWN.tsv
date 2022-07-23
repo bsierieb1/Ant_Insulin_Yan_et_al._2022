@@ -1,0 +1,25 @@
+GO.ID	Term	Annotated	Significant	Expected	elimFisher
+GO:0035814	negative regulation of renal sodium excretion	28	18	2.99	1.4e-11
+GO:0008152	metabolic process	7209	876	770.35	3.4e-08
+GO:0009987	cellular process	10685	1188	1141.79	4.9e-05
+GO:0033076	isoquinoline alkaloid metabolic process	6	5	0.64	7.6e-05
+GO:0009699	phenylpropanoid biosynthetic process	28	10	2.99	4e-04
+GO:0015842	aminergic neurotransmitter loading into synaptic vesicle	11	6	1.18	0.00042
+GO:0006587	serotonin biosynthetic process from tryptophan	8	5	0.85	0.00059
+GO:0046684	response to pyrethroid	8	5	0.85	0.00059
+GO:0001694	histamine biosynthetic process	5	4	0.53	0.00059
+GO:0018960	4-nitrophenol metabolic process	5	4	0.53	0.00059
+GO:0019852	L-ascorbic acid metabolic process	12	6	1.28	0.00077
+GO:0006068	ethanol catabolic process	9	5	0.96	0.0012
+GO:0052314	phytoalexin metabolic process	10	5	1.07	0.0022
+GO:0035336	long-chain fatty-acyl-CoA metabolic process	25	8	2.67	0.0034
+GO:0042197	halogenated hydrocarbon metabolic process	7	4	0.75	0.00348
+GO:0045899	positive regulation of RNA polymerase II transcription preinitiation complex assembly	7	4	0.75	0.00348
+GO:0000466	maturation of 5.8S rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	7	4	0.75	0.00348
+GO:0048085	adult chitin-containing cuticle pigmentation	12	5	1.28	0.00575
+GO:0035002	liquid clearance, open tracheal system	17	6	1.82	0.00644
+GO:1903538	regulation of meiotic cell cycle process involved in oocyte maturation	17	6	1.82	0.00644
+GO:0048002	antigen processing and presentation of peptide antigen	91	18	9.72	0.00706
+GO:0006364	rRNA processing	59	16	6.3	0.0074
+GO:0030433	ubiquitin-dependent ERAD pathway	29	8	3.1	0.00918
+GO:0018904	ether metabolic process	35	9	3.74	0.00955

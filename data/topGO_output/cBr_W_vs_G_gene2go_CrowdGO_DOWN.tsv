@@ -1,0 +1,7 @@
+GO.ID	Term	Annotated	Significant	Expected	elimFisher
+GO:0046680	response to DDT	23	3	0.07	4.5e-05
+GO:0043950	positive regulation of cAMP-mediated signaling	8	2	0.02	0.00025
+GO:0040040	thermosensory behavior	51	3	0.16	5e-04
+GO:0046701	insecticide catabolic process	55	3	0.17	0.00062
+GO:0050829	defense response to Gram-negative bacterium	70	3	0.21	0.00125
+GO:0010430	fatty acid omega-oxidation	19	2	0.06	0.00151

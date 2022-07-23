@@ -1,0 +1,35 @@
+GO.ID	Term	Annotated	Significant	Expected	elimFisher
+GO:0035814	negative regulation of renal sodium excretion	28	19	2.93	5.9e-13
+GO:0008152	metabolic process	7209	838	755.46	3.8e-05
+GO:0009987	cellular process	10685	1167	1119.72	4.1e-05
+GO:0035336	long-chain fatty-acyl-CoA metabolic process	25	10	2.62	0.00011
+GO:0008611	ether lipid biosynthetic process	28	10	2.93	0.00034
+GO:0018960	4-nitrophenol metabolic process	5	4	0.52	0.00055
+GO:0035002	liquid clearance, open tracheal system	17	7	1.78	0.00103
+GO:0006068	ethanol catabolic process	9	5	0.94	0.0011
+GO:0052646	alditol phosphate metabolic process	9	5	0.94	0.0011
+GO:0033076	isoquinoline alkaloid metabolic process	6	4	0.63	0.00151
+GO:1902856	negative regulation of non-motile cilium assembly	10	5	1.05	0.00201
+GO:0010345	suberin biosynthetic process	15	6	1.57	0.00284
+GO:0042197	halogenated hydrocarbon metabolic process	7	4	0.73	0.00324
+GO:0045899	positive regulation of RNA polymerase II transcription preinitiation complex assembly	7	4	0.73	0.00324
+GO:0010188	response to microbial phytotoxin	7	4	0.73	0.00324
+GO:0006000	fructose metabolic process	11	5	1.15	0.00337
+GO:0010025	wax biosynthetic process	26	8	2.72	0.00395
+GO:0002479	antigen processing and presentation of exogenous peptide antigen via MHC class I, TAP-dependent	26	8	2.72	0.00395
+GO:0010753	positive regulation of cGMP-mediated signaling	16	6	1.68	0.00415
+GO:0070542	response to fatty acid	56	13	5.87	0.00444
+GO:0071616	acyl-CoA biosynthetic process	76	16	7.96	0.00481
+GO:0006633	fatty acid biosynthetic process	51	12	5.34	0.00549
+GO:1903538	regulation of meiotic cell cycle process involved in oocyte maturation	17	6	1.78	0.00585
+GO:0042811	pheromone biosynthetic process	17	6	1.78	0.00585
+GO:0009072	aromatic amino acid family metabolic process	17	6	1.78	0.00585
+GO:0042574	retinal metabolic process	8	4	0.84	0.00594
+GO:2000224	regulation of testosterone biosynthetic process	8	4	0.84	0.00594
+GO:0030433	ubiquitin-dependent ERAD pathway	29	8	3.04	0.00818
+GO:0030590	first cell cycle pseudocleavage	5	3	0.52	0.00976
+GO:0009821	alkaloid biosynthetic process	5	3	0.52	0.00976
+GO:0001694	histamine biosynthetic process	5	3	0.52	0.00976
+GO:0000022	mitotic spindle elongation	5	3	0.52	0.00976
+GO:0051343	positive regulation of cyclic-nucleotide phosphodiesterase activity	5	3	0.52	0.00976
+GO:0038095	Fc-epsilon receptor signaling pathway	9	4	0.94	0.00981

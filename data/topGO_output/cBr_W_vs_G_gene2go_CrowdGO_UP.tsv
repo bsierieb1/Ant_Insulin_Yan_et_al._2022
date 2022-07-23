@@ -1,0 +1,79 @@
+GO.ID	Term	Annotated	Significant	Expected	elimFisher
+GO:0008364	pupal chitin-based cuticle development	17	4	0.13	8.2e-06
+GO:0019233	sensory perception of pain	50	5	0.4	4.5e-05
+GO:0042053	regulation of dopamine metabolic process	14	3	0.11	0.00017
+GO:0070989	oxidative demethylation	36	4	0.29	0.00018
+GO:1901700	response to oxygen-containing compound	967	23	7.67	0.00028
+GO:0021510	spinal cord development	17	3	0.13	3e-04
+GO:0090326	positive regulation of locomotion involved in locomotory behavior	18	3	0.14	0.00036
+GO:1901385	regulation of voltage-gated calcium channel activity	18	3	0.14	0.00036
+GO:0001919	regulation of receptor recycling	18	3	0.14	0.00036
+GO:0008542	visual learning	43	4	0.34	0.00036
+GO:0017085	response to insecticide	74	7	0.59	0.00038
+GO:0071277	cellular response to calcium ion	45	4	0.36	0.00043
+GO:0045762	positive regulation of adenylate cyclase activity	5	2	0.04	0.00061
+GO:0051447	negative regulation of meiotic cell cycle	22	3	0.17	0.00067
+GO:0097011	cellular response to granulocyte macrophage colony-stimulating factor stimulus	6	2	0.05	0.00092
+GO:0046701	insecticide catabolic process	55	4	0.44	0.00093
+GO:0033197	response to vitamin E	7	2	0.06	0.00127
+GO:0008283	cell population proliferation	474	11	3.76	0.0013
+GO:0007188	adenylate cyclase-modulating G protein-coupled receptor signaling pathway	28	3	0.22	0.00137
+GO:0035249	synaptic transmission, glutamatergic	61	4	0.48	0.00137
+GO:1901216	positive regulation of neuron death	62	4	0.49	0.00146
+GO:0014055	acetylcholine secretion, neurotransmission	8	2	0.06	0.00169
+GO:0043523	regulation of neuron apoptotic process	65	4	0.52	0.00174
+GO:0043086	negative regulation of catalytic activity	164	6	1.3	0.00192
+GO:0006897	endocytosis	286	8	2.27	0.00194
+GO:0009822	alkaloid catabolic process	32	3	0.25	0.00203
+GO:0090119	vesicle-mediated cholesterol transport	9	2	0.07	0.00216
+GO:2000292	regulation of defecation	9	2	0.07	0.00216
+GO:1903669	positive regulation of chemorepellent activity	9	2	0.07	0.00216
+GO:0048813	dendrite morphogenesis	69	4	0.55	0.00217
+GO:0008286	insulin receptor signaling pathway	70	4	0.56	0.00229
+GO:0120035	regulation of plasma membrane bounded cell projection organization	237	7	1.88	0.00275
+GO:0006937	regulation of muscle contraction	122	5	0.97	0.00283
+GO:0019226	transmission of nerve impulse	36	3	0.29	0.00286
+GO:0043473	pigmentation	123	5	0.98	0.00293
+GO:0051050	positive regulation of transport	552	13	4.38	0.00307
+GO:0002933	lipid hydroxylation	37	3	0.29	0.00309
+GO:0042752	regulation of circadian rhythm	77	4	0.61	0.00324
+GO:1903054	negative regulation of extracellular matrix organization	11	2	0.09	0.00327
+GO:0060292	long-term synaptic depression	39	3	0.31	0.0036
+GO:0050804	modulation of chemical synaptic transmission	296	10	2.35	0.00367
+GO:0045859	regulation of protein kinase activity	131	5	1.04	0.00384
+GO:0010880	regulation of release of sequestered calcium ion into cytosol by sarcoplasmic reticulum	12	2	0.1	0.0039
+GO:2001014	regulation of skeletal muscle cell differentiation	12	2	0.1	0.0039
+GO:1903939	regulation of TORC2 signaling	12	2	0.1	0.0039
+GO:0086091	regulation of heart rate by cardiac conduction	12	2	0.1	0.0039
+GO:0033603	positive regulation of dopamine secretion	12	2	0.1	0.0039
+GO:0014075	response to amine	41	3	0.33	0.00415
+GO:1900194	negative regulation of oocyte maturation	13	2	0.1	0.00459
+GO:0007611	learning or memory	132	8	1.05	0.00473
+GO:1901261	regulation of sorocarp spore cell differentiation	14	2	0.11	0.00533
+GO:1904502	regulation of lipophagy	14	2	0.11	0.00533
+GO:0007626	locomotory behavior	167	8	1.32	0.00581
+GO:0090257	regulation of muscle system process	171	8	1.36	0.00607
+GO:0007274	neuromuscular synaptic transmission	47	3	0.37	0.0061
+GO:0070141	response to UV-A	15	2	0.12	0.00612
+GO:0046850	regulation of bone remodeling	15	2	0.12	0.00612
+GO:0030593	neutrophil chemotaxis	48	3	0.38	0.00647
+GO:0031285	regulation of sorocarp stalk cell differentiation	16	2	0.13	0.00695
+GO:0045887	positive regulation of synaptic assembly at neuromuscular junction	16	2	0.13	0.00695
+GO:0010753	positive regulation of cGMP-mediated signaling	16	2	0.13	0.00695
+GO:0070997	neuron death	149	9	1.18	0.00729
+GO:0043627	response to estrogen	98	4	0.78	0.00761
+GO:0040040	thermosensory behavior	51	3	0.4	0.00765
+GO:0010815	bradykinin catabolic process	17	2	0.13	0.00784
+GO:0044409	entry into host	17	2	0.13	0.00784
+GO:0001662	behavioral fear response	17	2	0.13	0.00784
+GO:0008104	protein localization	1242	18	9.85	0.00826
+GO:0032956	regulation of actin cytoskeleton organization	102	4	0.81	0.00875
+GO:0048384	retinoic acid receptor signaling pathway	18	2	0.14	0.00877
+GO:0071385	cellular response to glucocorticoid stimulus	18	2	0.14	0.00877
+GO:0031324	negative regulation of cellular metabolic process	784	13	6.22	0.00881
+GO:0051899	membrane depolarization	54	3	0.43	0.00896
+GO:0042110	T cell activation	105	4	0.83	0.00966
+GO:0009595	detection of biotic stimulus	19	2	0.15	0.00976
+GO:0010648	negative regulation of cell communication	507	12	4.02	0.00993
+GO:0023057	negative regulation of signaling	507	12	4.02	0.00993
+GO:0007155	cell adhesion	376	8	2.98	0.00994
