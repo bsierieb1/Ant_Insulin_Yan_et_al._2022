@@ -1,6 +1,16 @@
 # Ant_Insulin_Yan_et_al._2022
 
-This repository contains files necessary to reproduce the GO-term enrichment analysis published by [Yan et al. 2022](https://doi.org/10.1101/2022.06.25.497611).
+This repository contains files necessary to reproduce the phylogenetic and GO-term enrichment analysis published by [Yan et al. 2022](https://doi.org/10.1101/2022.06.25.497611).
+
+## Phylogenetic analysis
+
+See the `phylogeny` folder:
+
+Please refer to `phylogeny/README.txt` for details.
+
+## GO-term enrichment analysis
+
+See the `go` folder:
 
 `conda.yaml` contains the conda environment used.
 
